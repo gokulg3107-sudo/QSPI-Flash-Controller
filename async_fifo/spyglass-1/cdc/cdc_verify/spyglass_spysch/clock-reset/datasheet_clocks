@@ -1,0 +1,3 @@
+SCHEMA@@CName@@CTag@@CMode@@CFrequency@@CDomain@@DCrossings@@RegPEdge@@LatchPEdge@@LibCellPEdge@@BBPEdge@@RegNEdge@@LatchNEdge@@LibCellNEdge@@BBNEdge@@CSource
+VALUE@@async_fifo.wclk@@SG_AUTO_TAG_1@@sys-clock@@50@@d1@@0@@280@@0@@0@@0@@0@@0@@0@@0@@SDC/SGDC
+VALUE@@async_fifo.rclk@@SG_AUTO_TAG_2@@sys-clock@@12.5@@d2@@0@@32@@0@@0@@0@@0@@0@@0@@0@@SDC/SGDC

@@ -1,0 +1,6 @@
+current_mode@@@@0@@@@
+sgdc@@clock@@clock-namewclk-domaind1-period20-edge010@@clock -name wclk -domain d1 -period 20 -edge {0 10}@@@con_asyncfifo.sgdc:2
+sgdc@@clock@@clock-namerclk-domaind2-period80-edge040@@clock -name rclk -domain d2 -period 80 -edge {0 40}@@@con_asyncfifo.sgdc:3
+sgdc@@reset@@reset-namewrst-value0-async@@reset -name wrst -value 0@@@con_asyncfifo.sgdc:4
+sgdc@@reset@@reset-namerrst-value0-async@@reset -name rrst -value 0@@@con_asyncfifo.sgdc:5
+sgdc@@num_flops@@num_flops-to_domaind2-value4-reset@@num_flops -reset -to_domain d2 -value 4@@@con_asyncfifo.sgdc:13

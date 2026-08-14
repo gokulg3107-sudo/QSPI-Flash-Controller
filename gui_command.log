@@ -1,0 +1,33 @@
+read_file -type verilog async.v
+# Started at 16:19:42, Completed at 16:19:45 (Elapsed time = 00:00:01.279)
+
+read_file -type verilog read_pointer_handler.v 
+# Started at 16:19:53, Completed at 16:19:53 (Elapsed time = 00:00:00.000)
+
+read_file -type verilog write_pointer_handler.v 
+# Started at 16:20:02, Completed at 16:20:02 (Elapsed time = 00:00:00.009)
+
+read_file -type verilog con_asyncfifo.sgdc 
+# Started at 16:20:12, Completed at 16:20:12 (Elapsed time = 00:00:00.000)
+
+remove_file -type hdl
+# Started at 16:20:25, Completed at 16:20:25 (Elapsed time = 00:00:00.009)
+
+read_file -type verilog {async.v read_pointer_handler.v write_pointer_handler.v}
+# Started at 16:20:26, Completed at 16:20:26 (Elapsed time = 00:00:00.000)
+
+read_file -type sgdc con_asyncfifo.sgdc 
+# Started at 16:20:36, Completed at 16:20:36 (Elapsed time = 00:00:00.000)
+
+current_goal Design_Read -alltop
+# Started at 16:20:40, Completed at 16:20:41 (Elapsed time = 00:00:00.770)
+
+link_design -force
+# Started at 16:20:47, Completed at 16:21:00 (Elapsed time = 00:00:03.169)
+
+current_goal cdc/cdc_setup_check -alltop
+# Started at 16:21:16, Completed at 16:21:22 (Elapsed time = 00:00:02.500)
+
+run_goal
+# Started at 16:21:23, Completed at 16:21:46 (Elapsed time = 00:00:14.009)
+

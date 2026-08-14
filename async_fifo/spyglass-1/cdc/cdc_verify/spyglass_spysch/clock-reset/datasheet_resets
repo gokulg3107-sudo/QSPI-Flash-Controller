@@ -1,0 +1,3 @@
+SCHEMA@@RName@@RType@@SyncAH@@SyncAL@@ASyncAH@@ASyncAL
+VALUE@@async_fifo.wrst@@Clear@@0@@0@@0@@280
+VALUE@@async_fifo.rrst@@Clear@@0@@0@@0@@32

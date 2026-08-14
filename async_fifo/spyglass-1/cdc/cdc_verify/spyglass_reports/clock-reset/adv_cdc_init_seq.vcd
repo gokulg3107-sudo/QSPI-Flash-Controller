@@ -1,0 +1,32 @@
+$date
+	Wed Aug 12 15:23:36 2026
+
+$end
+$version
+	BMC-0.1
+$end
+$timescale
+	1ps
+$end
+
+$var integer 16 verification_cycle verification_cycle $end
+$scope module async_fifo $end
+
+$var wire 1 & wclk $end
+$var wire 1 ' wen $end
+$var wire 8 ( write_datain [7:0] $end
+$var wire 1 0 rclk $end
+$var wire 1 1 ren $end
+$var wire 1 2 rrst $end
+$var wire 1 3 wrst $end
+$upscope $end
+
+$enddefinitions $end
+
+#10000
+b0000000000000000 verification_cycle
+
+02
+03
+
+#20000

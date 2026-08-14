@@ -1,0 +1,4 @@
+
+current_design "async_fifo"
+clock -name async_fifo.rclk -period 80.00 -domain d2
+clock -name async_fifo.wclk -period 20.00 -domain d1

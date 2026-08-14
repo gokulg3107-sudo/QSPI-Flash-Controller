@@ -1,0 +1,9 @@
+1
+1
+1 
+2
+31
+Clock_path_tag
+Clock_path_tag
+async_fifo.wclk&&d1&&0
+async_fifo.rclk&&d2&&1

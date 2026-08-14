@@ -1,0 +1,10 @@
+1
+1
+1 
+3
+31
+Data_path_tag
+Data_path_tag
+async_fifo.wclk&&d1&&0&&no
+async_fifo.rclk&&d2&&1&&no
+async_fifo.wclk&&d1&&0&&no;async_fifo.rclk&&d2&&1&&no

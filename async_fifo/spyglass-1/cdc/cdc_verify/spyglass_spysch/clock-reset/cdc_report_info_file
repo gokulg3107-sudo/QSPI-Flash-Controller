@@ -1,0 +1,5 @@
+
+clock@@name@@async_fifo.wclk@@domain@@d1@@period@@20@@
+clock@@name@@async_fifo.rclk@@domain@@d2@@period@@80@@
+reset@@name@@wrst@@value@@0@@async@@
+reset@@name@@rrst@@value@@0@@async@@

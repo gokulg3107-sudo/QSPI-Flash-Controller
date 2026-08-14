@@ -1,0 +1,33 @@
+read_file -type verilog async_fifo.v 
+# Started at 15:19:40, Completed at 15:19:41 (Elapsed time = 00:00:01.190)
+
+read_file -type sgdc con_asyncfifo.sgdc 
+# Started at 15:19:46, Completed at 15:19:46 (Elapsed time = 00:00:00.000)
+
+current_goal Design_Read -alltop
+# Started at 15:19:54, Completed at 15:19:55 (Elapsed time = 00:00:00.660)
+
+link_design -force
+# Started at 15:19:55, Completed at 15:20:06 (Elapsed time = 00:00:03.360)
+
+current_goal cdc/cdc_verify -alltop
+# Started at 15:20:17, Completed at 15:20:25 (Elapsed time = 00:00:02.720)
+
+run_goal
+# Started at 15:20:25, Completed at 15:21:30 (Elapsed time = 00:00:40.730)
+
+current_goal Design_Read -alltop
+# Started at 15:22:41, Completed at 15:22:47 (Elapsed time = 00:00:01.420)
+
+link_design -force
+# Started at 15:22:47, Completed at 15:22:56 (Elapsed time = 00:00:04.089)
+
+current_goal cdc/cdc_verify -alltop
+# Started at 15:23:17, Completed at 15:23:27 (Elapsed time = 00:00:03.239)
+
+run_goal
+# Started at 15:23:27, Completed at 15:24:11 (Elapsed time = 00:00:33.590)
+
+gui_select_message -rule Ac_datahold01a -msg {Synchronized crossing: destination flop 'async_fifo.read_dataout[7:0]', clocked by 'async_fifo.rclk', source flop 'async_fifo.fifo_register[31:0][7:0]', clocked by 'async_fifo.wclk'. Data-enable sequencing check: Partially-Proved}
+# Started at 15:25:53, Completed at 15:25:53 (Elapsed time = 00:00:00.000)
+

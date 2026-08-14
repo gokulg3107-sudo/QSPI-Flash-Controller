@@ -1,0 +1,9 @@
+INPUT@@/home/gokulgopalakrishnan/major_project/apb/async_fifo/spyglass-1/cdc/cdc_verify/spyglass_reports@@/home/gokulgopalakrishnan/major_project/apb/async_fifo/spyglass-1/html_reports/data_files/@@async_fifo@@cdc-cdc_verify@@
+COPY@@/home/gokulgopalakrishnan/major_project/apb/async_fifo/spyglass-1/cdc/cdc_verify/spyglass_reports/moresimple.rpt@@data_files/async_fifo_cdc-cdc_verify_moresimple.rpt@@
+COPY@@/home/gokulgopalakrishnan/major_project/apb/async_fifo/spyglass-1/cdc/cdc_verify/spyglass_reports/no_msg_reporting_rules.rpt@@data_files/async_fifo_cdc-cdc_verify_no_msg_reporting_rules.rpt@@
+REGEN@@/home/gokulgopalakrishnan/major_project/apb/async_fifo/spyglass-1/cdc/cdc_verify/spyglass_reports/CDC-report.rpt@@data_files/async_fifo_cdc-cdc_verify_CDC-report.rpt.html@@
+REGEN@@/home/gokulgopalakrishnan/major_project/apb/async_fifo/spyglass-1/cdc/cdc_verify/spyglass_reports/clock-reset/adv_cdc.rpt@@data_files/async_fifo_cdc-cdc_verify_adv_cdc.rpt.html@@
+COPY@@/home/gokulgopalakrishnan/major_project/apb/async_fifo/spyglass-1/cdc/cdc_verify/spyglass_reports/CDC-report.rpt@@data_files/async_fifo_cdc-cdc_verify_CDC-report.rpt@@
+COPY@@/home/gokulgopalakrishnan/major_project/apb/async_fifo/spyglass-1/cdc/cdc_verify/spyglass_reports/adv_cdc.rpt@@data_files/async_fifo_cdc-cdc_verify_adv_cdc.rpt@@
+PROCESS@@SpyGlass@@clock-reset
+COPY@@/home/gokulgopalakrishnan/major_project/apb/async_fifo/spyglass-1/cdc/cdc_verify/spyglass.log@@data_files/async_fifo_cdc-cdc_verify_spyglass.log@@

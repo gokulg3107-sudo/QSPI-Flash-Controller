@@ -1,0 +1,25 @@
+SCHEMA@@PName@@RefClock@@Clock Type@@InSync
+VALUE@@wclk@@-@@clock@@-
+VALUE@@wrst@@-@@async reset@@-
+VALUE@@rclk@@-@@clock@@-
+VALUE@@rrst@@-@@async reset@@-
+VALUE@@wen@@async_fifo.wclk@@-@@-
+VALUE@@write_datain[0]@@async_fifo.wclk@@-@@-
+VALUE@@write_datain[1]@@async_fifo.wclk@@-@@-
+VALUE@@write_datain[2]@@async_fifo.wclk@@-@@-
+VALUE@@write_datain[3]@@async_fifo.wclk@@-@@-
+VALUE@@write_datain[4]@@async_fifo.wclk@@-@@-
+VALUE@@write_datain[5]@@async_fifo.wclk@@-@@-
+VALUE@@write_datain[6]@@async_fifo.wclk@@-@@-
+VALUE@@write_datain[7]@@async_fifo.wclk@@-@@-
+VALUE@@ren@@async_fifo.rclk@@-@@-
+VALUE@@read_dataout[0]@@async_fifo.rclk@@-@@-
+VALUE@@read_dataout[1]@@async_fifo.rclk@@-@@-
+VALUE@@read_dataout[2]@@async_fifo.rclk@@-@@-
+VALUE@@read_dataout[3]@@async_fifo.rclk@@-@@-
+VALUE@@read_dataout[4]@@async_fifo.rclk@@-@@-
+VALUE@@read_dataout[5]@@async_fifo.rclk@@-@@-
+VALUE@@read_dataout[6]@@async_fifo.rclk@@-@@-
+VALUE@@read_dataout[7]@@async_fifo.rclk@@-@@-
+VALUE@@full@@async_fifo.wclk@@-@@-
+VALUE@@empty@@async_fifo.rclk@@-@@-

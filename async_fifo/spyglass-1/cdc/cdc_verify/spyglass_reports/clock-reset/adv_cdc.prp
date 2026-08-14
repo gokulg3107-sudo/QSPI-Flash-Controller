@@ -1,0 +1,26 @@
+################################################################################
+#
+# Purpose: 
+#   This file specifies the assertion details along with their run status.
+#   Functional analysis is done only for those assertions that are enabled
+#   in the property file.
+#
+# Format: 
+#   
+#   RuleName: <rule-name>
+#   <selection> <type> <status> <file-name> <line-num> <hier> [ <info> ]
+#   .....
+#   
+#   
+################################################################################
+RuleName: Ac_conv02 
+off  Assertion   PROVED              async_fifo.v  113  "async_fifo.w1"  [async_fifo.w1.b_rptr[0]]
+
+RuleName: Ac_conv02 
+off  Assertion   PROVED              async_fifo.v  67  "async_fifo.w2"  [async_fifo.w2.b_wptr[0]]
+
+RuleName: Ac_cdc01a 
+off  Assertion   PROVED              async_fifo.v  34  "async_fifo.w2"  [SFlop:async_fifo.g_wptr[5] SClk:async_fifo.wclk DFlop:async_fifo.w2.sync1[5] DClk:async_fifo.rclk]
+
+RuleName: Ac_datahold01a 
+on   Assertion   Partially-Proved    async_fifo.v  19  "async_fifo"  [Des: "async_fifo.\read_dataout_reg[0] .Q", Src: "async_fifo.\fifo_register_reg[0][0] .Q"]

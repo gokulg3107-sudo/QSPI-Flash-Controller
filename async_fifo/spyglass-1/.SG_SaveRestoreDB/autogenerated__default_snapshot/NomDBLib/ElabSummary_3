@@ -1,0 +1,19 @@
+================================================================================
+Elaborated Name: 'write_pointer_handler'
+    (RTL Design Unit name: 'write_pointer_handler', async_fifo.v:75)
+     Parameters (Total: 0)
+     Instances (Total: 1): async_fifo.w1 
+
+================================================================================
+
+Elaborated Name: 'read_pointer_handler'
+    (RTL Design Unit name: 'read_pointer_handler', async_fifo.v:24)
+     Parameters (Total: 0)
+     Instances (Total: 1): async_fifo.w2 
+
+================================================================================
+
+Elaborated Name: 'async_fifo'
+    (RTL Design Unit name: 'async_fifo', async_fifo.v:1)
+     Parameters (Total: 0)
+================================================================================

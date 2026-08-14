@@ -1,0 +1,449 @@
+<CWD>/home/gokulgopalakrishnan/major_project/apb/async_fifo</CWD>
+<ENVVAR>
+	<env name="SPYGLASS_SPYAUTH_FILE">
+		<value>/tmp/spyAuthFileList869621786528139</value>
+	</env>
+	<env name="LD_LIBRARY_PATH">
+		<value>/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/auxi:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/lib:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/auxi/tkgui-new:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/auxi/policy_data/spyglass/design_read:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/Audits:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/adv_lowpower:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/area:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/auto-verify:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/clock:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/constraints:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/cubic_netlist:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/dft:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/dft_dsm:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/erc:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/latch:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/lint:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/lowpower:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/mbist-dft:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/miscellaneous:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/morelint:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/openmore:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/power_est:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/prof:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/rtl2netlist:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/sec:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/simulation:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/spyglass:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/starc:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/starc2002:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/starc2005:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/starcad-21:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/timing:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/txv:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/auxi/tkgui-new/Linux4:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/auxi/rme:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/auxi/rme/Parser:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/auxi/rme/Parser/Linux4:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/lib/multi-perl/lib/5.8.3:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/lib/multi-perl/lib/site_perl/5.8.3:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/auxi/tkgui-new/Linux4:/lib64/tls:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/lib/multi-tcl/lib/Linux4:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/lib/python/Linux4/lib:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/auxi/tkgui-new/Linux4:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/lib/dbWriter:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/lib/multi-tcl/lib/Linux4::/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/lib/multi-qt/lib/Linux4:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/lib/multi-nlview/Linux4:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/lib/multi-boost/Linux4:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/lib/multi-thirdparty/Linux4:/depot/gcc-4.8.3-patch/lib64:/usr/lib64:/usr/X11R6/lib64:/usr/local/lib64:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/lib/multi-vcst/vcs-mx/linux64/lib:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/lib:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/lib/oa/Linux4:::/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/lib/oa/Linux4::/usr/lib:/lib:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/lib/zebulib</value>
+	</env>
+	<env name="REMOTEHOST">
+		<value>106.219.126.196</value>
+	</env>
+	<env name="XDG_SESSION_ID">
+		<value>77575</value>
+	</env>
+	<env name="HOSTNAME">
+		<value>feserver.mirafra.com</value>
+	</env>
+	<env name="SKIP_PLATFORM_CHECK">
+		<value>1</value>
+	</env>
+	<env name="TERM">
+		<value>xterm</value>
+	</env>
+	<env name="SHELL">
+		<value>/bin/bash</value>
+	</env>
+	<env name="HOST">
+		<value>feserver.mirafra.com</value>
+	</env>
+	<env name="HISTSIZE">
+		<value>1000</value>
+	</env>
+	<env name="SPYGLASS_DW_PATH">
+		<value>/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/dw_support</value>
+	</env>
+	<env name="SSH_CLIENT">
+		<value>106.219.126.196 5789 22</value>
+	</env>
+	<env name="TMPDIR">
+		<value/>
+	</env>
+	<env name="LD_PRELOAD">
+		<value/>
+	</env>
+	<env name="SPYGLASS_IPC_SERVER_APP_INFO">
+		<value>/tmp/.SPYGLASS_IPC_SERVER_APP_INFO@@139</value>
+	</env>
+	<env name="QTDIR">
+		<value>/usr/lib64/qt-3.3</value>
+	</env>
+	<env name="SPYGLASS_ENABLE_LICENSE_QUEUE">
+		<value>1</value>
+	</env>
+	<env name="QTINC">
+		<value>/usr/lib64/qt-3.3/include</value>
+	</env>
+	<env name="SSH_TTY">
+		<value>/dev/pts/255</value>
+	</env>
+	<env name="LC_ALL">
+		<value/>
+	</env>
+	<env name="QT_GRAPHICSSYSTEM_CHECKED">
+		<value>1</value>
+	</env>
+	<env name="SG_SPYGLASS_DW_PATH">
+		<value>1</value>
+	</env>
+	<env name="USER">
+		<value>gokulgopalakrishnan</value>
+	</env>
+	<env name="GROUP">
+		<value>gokulgopalakrishnan</value>
+	</env>
+	<env name="LS_COLORS">
+		<value>rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:</value>
+	</env>
+	<env name="TCL_LIBRARY">
+		<value>/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/lib/multi-tcl/lib/tcl</value>
+	</env>
+	<env name="HOSTTYPE">
+		<value>x86_64-linux</value>
+	</env>
+	<env name="SNPSLMD_LICENSE_FILE">
+		<value>27020@ls01.trg.vlsiexpert.in</value>
+	</env>
+	<env name="SPYGLASS_PLATFORM">
+		<value>Linux4</value>
+	</env>
+	<env name="SPYGLASS_TMPDIR">
+		<value>/tmp</value>
+	</env>
+	<env name="VC_STATIC_HOME">
+		<value>/fetools/synopsys/installed_tools/vc_static/U-2023.03-1</value>
+	</env>
+	<env name="MAIL">
+		<value>/var/spool/mail/gokulgopalakrishnan</value>
+	</env>
+	<env name="PATH">
+		<value>/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/../dotty/scripts:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/../dotty/bin/Linux4:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/obj:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/bin::/usr/local/bin:/usr/bin:/bin:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/obj:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/bin::/usr/local/bin:/usr/bin:/bin:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/obj:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/bin::/usr/local/bin:/usr/bin:/bin:/fetools/synopsys/installed_tools/vc_static/U-2023.03-1/bin:/fetools/synopsys/installed_tools/verdi/verdi/Q-2020.03-SP2-8/bin:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/bin:/fetools/synopsys/installed_tools/syn/S-2021.06-SP4/bin:/fetools/synopsys/installed_tools/vcs/vcs/Q-2020.03-SP2-8/bin:/fetools/synopsys/installed_tools/Formality/fm/S-2021.06-SP2/bin:/fetools/synopsys/installed_tools/primetime/prime/S-2021.06-SP2/bin:/fetools/synopsys/installed_tools/icc2/Q-2019.12-SP1/bin:/fetools/synopsys/installed_tools/vc_static/U-2023.03-1/bin:/fetools/synopsys/installed_tools/verdi/verdi/Q-2020.03-SP2-8/bin:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/bin:/fetools/synopsys/installed_tools/syn/S-2021.06-SP4/bin:/fetools/synopsys/installed_tools/vcs/vcs/Q-2020.03-SP2-8/bin:/fetools/synopsys/installed_tools/Formality/fm/S-2021.06-SP2/bin:/fetools/synopsys/installed_tools/primetime/prime/S-2021.06-SP2/bin:/fetools/synopsys/installed_tools/icc2/Q-2019.12-SP1/bin:/usr/lib64/qt-3.3/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/gokulgopalakrishnan/bin/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin</value>
+	</env>
+	<env name="Prime_HOME">
+		<value>/fetools/synopsys/installed_tools/primetime/prime/S-2021.06-SP2</value>
+	</env>
+	<env name="SNPSLMD_QUEUE">
+		<value>true</value>
+	</env>
+	<env name="SAVE_CATALOG">
+		<value>PATH</value>
+	</env>
+	<env name="VERDI_HOME">
+		<value>/fetools/synopsys/installed_tools/verdi/verdi/Q-2020.03-SP2-8</value>
+	</env>
+	<env name="PWD">
+		<value>/home/gokulgopalakrishnan/major_project/apb/async_fifo</value>
+	</env>
+	<env name="CMD_FILE_PATH">
+		<value>/tmp/cmdfile_86962</value>
+	</env>
+	<env name="VCS_HOME">
+		<value>/fetools/synopsys/installed_tools/vcs/vcs/Q-2020.03-SP2-8</value>
+	</env>
+	<env name="SG_CONSOLE_SE">
+		<value>1</value>
+	</env>
+	<env name="LANG">
+		<value/>
+	</env>
+	<env name="SPYGLASS_IPC_SERVER_APP_PID">
+		<value>87245</value>
+	</env>
+	<env name="ICC_HOME">
+		<value>/fetools/synopsys/installed_tools/icc2/Q-2019.12-SP1</value>
+	</env>
+	<env name="SPG_INTRNL_INVCN">
+		<value>1</value>
+	</env>
+	<env name="SSH_ASKPASS">
+		<value>/usr/libexec/openssh/gnome-ssh-askpass</value>
+	</env>
+	<env name="HISTCONTROL">
+		<value>ignoredups</value>
+	</env>
+	<env name="SPYGLASS_USE_SNPSMEM">
+		<value>yes</value>
+	</env>
+	<env name="SHLVL">
+		<value>7</value>
+	</env>
+	<env name="HOME">
+		<value>/home/gokulgopalakrishnan</value>
+	</env>
+	<env name="OSTYPE">
+		<value>linux</value>
+	</env>
+	<env name="FORMALITY">
+		<value>/fetools/synopsys/installed_tools/Formality/fm/S-2021.06-SP2</value>
+	</env>
+	<env name="VENDOR">
+		<value>unknown</value>
+	</env>
+	<env name="LOGNAME">
+		<value>gokulgopalakrishnan</value>
+	</env>
+	<env name="MACHTYPE">
+		<value>x86_64</value>
+	</env>
+	<env name="DC_HOME">
+		<value>/fetools/synopsys/installed_tools/syn/S-2021.06-SP4</value>
+	</env>
+	<env name="QTLIB">
+		<value>/usr/lib64/qt-3.3/lib</value>
+	</env>
+	<env name="SPYGLASS_HOME">
+		<value>/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME</value>
+	</env>
+	<env name="SPYGLASS_ENABLE_SYS_IPC_SERVER">
+		<value>yes</value>
+	</env>
+	<env name="SPYGLASS_TCL_SHELL">
+		<value>ok</value>
+	</env>
+	<env name="XDG_DATA_DIRS">
+		<value>/home/gokulgopalakrishnan/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share</value>
+	</env>
+	<env name="SSH_CONNECTION">
+		<value>106.219.126.196 5789 192.168.1.16 22</value>
+	</env>
+	<env name="SPYGLASS_LD_PRELOAD">
+		<value>/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/lib/libreplacemalloc.so</value>
+	</env>
+	<env name="LESSOPEN">
+		<value>||/usr/bin/lesspipe.sh %s</value>
+	</env>
+	<env name="SHLIB_PATH">
+		<value>/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/lib:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/lib/oa/Linux4:::/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/lib/oa/Linux4::/usr/lib:/lib</value>
+	</env>
+	<env name="SPYGLASS_LICENSE_QUEUING_INTERVAL">
+		<value>24000 10</value>
+	</env>
+	<env name="XDG_RUNTIME_DIR">
+		<value>/run/user/6892</value>
+	</env>
+	<env name="DISPLAY">
+		<value>localhost:11.0</value>
+	</env>
+	<env name="SPG_RANDOM">
+		<value>86742</value>
+	</env>
+	<env name="SPG_CMD_PARSE_TO_GET_SCREEN_OUT_SETTING">
+		<value>no</value>
+	</env>
+	<env name="SPYGLASS_CHECKER_PID_FILE_VAR">
+		<value>/tmp/.SPYGLASS_CHECKER_PID_FILE@@86962139</value>
+	</env>
+	<env name="SAVE_PATH">
+		<value>/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/obj:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/bin::/usr/local/bin:/usr/bin:/bin:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/obj:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/bin::/usr/local/bin:/usr/bin:/bin:/fetools/synopsys/installed_tools/vc_static/U-2023.03-1/bin:/fetools/synopsys/installed_tools/verdi/verdi/Q-2020.03-SP2-8/bin:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/bin:/fetools/synopsys/installed_tools/syn/S-2021.06-SP4/bin:/fetools/synopsys/installed_tools/vcs/vcs/Q-2020.03-SP2-8/bin:/fetools/synopsys/installed_tools/Formality/fm/S-2021.06-SP2/bin:/fetools/synopsys/installed_tools/primetime/prime/S-2021.06-SP2/bin:/fetools/synopsys/installed_tools/icc2/Q-2019.12-SP1/bin:/fetools/synopsys/installed_tools/vc_static/U-2023.03-1/bin:/fetools/synopsys/installed_tools/verdi/verdi/Q-2020.03-SP2-8/bin:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/bin:/fetools/synopsys/installed_tools/syn/S-2021.06-SP4/bin:/fetools/synopsys/installed_tools/vcs/vcs/Q-2020.03-SP2-8/bin:/fetools/synopsys/installed_tools/Formality/fm/S-2021.06-SP2/bin:/fetools/synopsys/installed_tools/primetime/prime/S-2021.06-SP2/bin:/fetools/synopsys/installed_tools/icc2/Q-2019.12-SP1/bin:/usr/lib64/qt-3.3/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/gokulgopalakrishnan/bin/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin</value>
+	</env>
+	<env name="_">
+		<value>/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/obj/check.Linux4</value>
+	</env>
+	<env name="CONCORDE_HOME">
+		<value>DUMMY_CONCORDE_HOME</value>
+	</env>
+	<env name="FLEXLM_BORROWFILE">
+		<value>/home/gokulgopalakrishnan/.feserver.mirafra.com-borrow.txt</value>
+	</env>
+	<env name="MANPATH">
+		<value>/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/starc/sgtcl/man:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/power_est/sgtcl/man:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/morelint/sgtcl/man:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/lowpower/sgtcl/man:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/lint/sgtcl/man:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/latch/sgtcl/man:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/erc/sgtcl/man:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/dft/sgtcl/man:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/constraints/sgtcl/man:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/clock/sgtcl/man:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/auto-verify/sgtcl/man:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/lib/multi-tcl/man:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/auxi/help_doc/man</value>
+	</env>
+	<env name="METHODOLOGY_HOME">
+		<value>/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/auxi/policy_data/spyglass/design_read</value>
+	</env>
+	<env name="DC423655E942576A2E296032B4D9445759AC4B11777DC209C28E3348655F0953">
+		<value>37BCF0AD5FAD9627D2BCCBE9AE9ABDD0FFCD1A2C81B0BE56</value>
+	</env>
+</ENVVAR>
+<ENVFILE>./spyglass-1/Design_Read//.sg.env</ENVFILE>
+<SPG_VERSION>SpyGlass_vS-2021.09-SP1</SPG_VERSION>
+<MACHINE name="feserver.mirafra.com" version="#1 SMP Wed Mar 20 15:54:52 UTC 2024"/>
+<Options>
+	<Opt name="--template_info">
+		<value>Design_Read</value>
+	</Opt>
+	<Opt name="-lib">
+		<value>WORK=&gt;./spyglass-1/WORK</value>
+		<value>SYNOPSYS=&gt;/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/vhdl_libs/Linux4/SYNOPSYS</value>
+	</Opt>
+	<Opt name="-m">
+		<value>SpyGlass::Compatibility::v2_7_3</value>
+		<value>SpyGlass::Compatibility::v2_7_3</value>
+		<value>SpyGlass::Compatibility::v2_7_3</value>
+	</Opt>
+	<Opt name="-policy">
+		<value>none</value>
+	</Opt>
+	<Opt name="-report">
+		<value>moresimple</value>
+		<value>runsummary</value>
+	</Opt>
+	<Opt name="-sgdc">
+		<value>con_asyncfifo.sgdc</value>
+	</Opt>
+	<Opt name="-template">
+		<value>Design_Read</value>
+	</Opt>
+	<Opt name="-verilog_files">
+		<value>async_fifo.v</value>
+	</Opt>
+	<Opt name="--stime">
+		<value>03:18:59 PM on Aug 12 2026</value>
+	</Opt>
+	<Opt name="-blackboxdir">
+		<value>inout</value>
+	</Opt>
+	<Opt name="-debuglevel">
+		<value>0</value>
+	</Opt>
+	<Opt name="-gateslibtype">
+		<value>0</value>
+	</Opt>
+	<Opt name="-logfile">
+		<value>./spyglass-1/Design_Read/spyglass.log</value>
+	</Opt>
+	<Opt name="-mthresh">
+		<value>4096</value>
+	</Opt>
+	<Opt name="-projectwdir">
+		<value>./spyglass-1</value>
+	</Opt>
+	<Opt name="-sortmethod">
+		<value>du</value>
+	</Opt>
+	<Opt name="-templatedir">
+		<value>/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/auxi/policy_data/spyglass/design_read</value>
+	</Opt>
+	<Opt name="-vdbfile">
+		<value>./spyglass-1/Design_Read/spyglass.vdb</value>
+	</Opt>
+	<Opt name="-wdir">
+		<value>./spyglass-1/Design_Read</value>
+	</Opt>
+	<Opt name="-work">
+		<value>WORK</value>
+	</Opt>
+	<Opt name="-64bit">
+		<value>yes</value>
+	</Opt>
+	<Opt name="--end_of_user_arg">
+		<value>yes</value>
+	</Opt>
+	<Opt name="-batch">
+		<value>yes</value>
+	</Opt>
+	<Opt name="-inferblackbox">
+		<value>yes</value>
+	</Opt>
+	<Opt name="-nl">
+		<value>yes</value>
+	</Opt>
+	<Opt name="-mixed">
+		<value>yes</value>
+	</Opt>
+</Options>
+<TOP_MODULE/>
+<GOAL_NAME>Design_Read</GOAL_NAME>
+<FILES>
+	<FILE name="con_asyncfifo.sgdc" type="SGDC"/>
+</FILES>
+<SPG_LOG>./spyglass-1/Design_Read/spyglass.log</SPG_LOG>
+<CMD_STRING> -batch -project spyglass-1.prj -designread  -64bit</CMD_STRING>
+<BlackBox/>
+<PEAK_MEMORY>3068128</PEAK_MEMORY>
+<Parameters>
+	<Param name="-allow_clock_on_output_port">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-check_clock_group_violations">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-debug_proc">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-force_genclk_for_txv">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-library_gen_clock_naming">
+		<DefaultValue>yes</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-netlist_clock_polarity">
+		<DefaultValue>yes</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-populate_comboelements_for_minmax_in_fromto">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-post_clock_group_population">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-preserve_path">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-pt">
+		<DefaultValue>yes</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-show_all_sdc_violations">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-show_sdc_progress">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-suppress_sdc_violation_in_abstract">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-tc_cache_empty_collections">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-tc_disable_caching">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-tc_disable_ignored_command_dump">
+		<DefaultValue>yes</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-tc_enable_sdc_393">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-tc_ignored_commands">
+		<DefaultValue>unspecified</DefaultValue>
+		<Value>unspecified</Value>
+	</Param>
+	<Param name="-tc_stop_parsing_ignored_commands">
+		<DefaultValue>yes</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-truncate_through">
+		<DefaultValue>yes</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-write_sdc">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+</Parameters>
+<RULES>
+	<Rule name="ElabSummary">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>1</Count>
+	</Rule>
+	<Rule name="DetectTopDesignUnits">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>1</Count>
+	</Rule>
+</RULES>
+<RUN_MODE/>
+<REPORTS>
+	<Report name="moresimple">
+		<value>./spyglass-1/Design_Read/spyglass_reports/moresimple.rpt</value>
+	</Report>
+	<Report/>
+	<Report name="no_msg_reporting_rules">
+		<value>./spyglass-1/Design_Read/spyglass_reports/no_msg_reporting_rules.rpt</value>
+	</Report>
+</REPORTS>
+<VIOL_SUMMARY>
+	<FATAL>0</FATAL>
+	<ERROR>0</ERROR>
+	<WARNING>0</WARNING>
+	<INFO>2</INFO>
+</VIOL_SUMMARY>
+<Exit_code>0</Exit_code>
+<Total_time>232</Total_time>

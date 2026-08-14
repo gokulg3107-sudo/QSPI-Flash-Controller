@@ -1,0 +1,20 @@
+current_design async_fifo
+clock -name wclk -domain d1 -period 20 -edge {0 10}
+clock -name rclk -domain d2 -period 80 -edge {0 40}
+reset -name wrst -value 0
+reset -name rrst -value 0
+input -name wen -clock wclk
+input -name ren -clock rclk
+input -name write_datain -clock wclk
+output -name read_dataout -clock rclk
+num_flops -reset -to_domain d2 -value 4
+num_flops -reset -to_domain d1 -value 4
+
+fifo -wr_data write_datain \
+     -rd_data read_dataout \
+     -wr_ptr b_wptr[4:0] \
+     -rd_ptr b_rptr[4:0] \
+     -memory fifo_register
+
+gray_signals -name g_wptr
+gray_signals -name g_rptr

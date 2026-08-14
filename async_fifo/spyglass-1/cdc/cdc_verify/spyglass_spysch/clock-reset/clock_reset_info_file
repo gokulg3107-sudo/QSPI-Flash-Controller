@@ -1,0 +1,60 @@
+Enabled AND-Sync
+Enabled Sync-Enable
+Enabled Clock_Gate-Sync
+Enabled Mux-Select
+Enabled Recirculation
+BEGIN::INFO
+SGDC current_design = async_fifo
+clock =
+wclk
+rclk
+END::INFO
+BEGIN::INFO
+SGDC current_design = async_fifo
+reset =
+wrst
+rrst
+END::INFO
+BEGIN INFO :: CLOCKS INFORMATION
+Clk-Name=async_fifo.wclk::Pos-Flop=280::Neg-Flop=0::UnKnown-Flop=0::Gating=No
+Clk-Name=async_fifo.rclk::Pos-Flop=32::Neg-Flop=0::UnKnown-Flop=0::Gating=No
+END CLOCKS INFORMATION
+Enabled FIFO
+BEGIN INFO :: CLOCK SOURCES
+PRIMARY:
+
+async_fifo.wclk
+async_fifo.rclk
+
+BLACK-BOX:
+
+
+UNDRIVEN:
+
+
+DERIVED:
+
+
+GATED:
+
+
+END::CLOCK-INFO
+BEGIN INFO :: RESET SOURCES
+PRIMARY:
+
+async_fifo.wrst
+async_fifo.rrst
+
+BLACK-BOX:
+
+
+UNDRIVEN:
+
+
+DERIVED:
+
+
+GATED:
+
+
+END::RESET-INFO

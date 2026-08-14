@@ -1,0 +1,28 @@
+INDIRECT_CLOCK_INFO_FLAG:: NO
+
+BEGIN INFO
+INPUT wclk@@@@<clock>@@@@ -, @@@@ -, 
+INPUT wrst@@@@<reset>@@@@ -, @@@@ -, 
+INPUT rclk@@@@<clock>@@@@ -, @@@@ -, 
+INPUT rrst@@@@<reset>@@@@ -, @@@@ -, 
+INPUT wen@@@@<->@@@@ async_fifo.wclk, @@@@ -, 
+INPUT write_datain[0]@@@@<->@@@@ async_fifo.wclk, @@@@ -, 
+INPUT write_datain[1]@@@@<->@@@@ async_fifo.wclk, @@@@ -, 
+INPUT write_datain[2]@@@@<->@@@@ async_fifo.wclk, @@@@ -, 
+INPUT write_datain[3]@@@@<->@@@@ async_fifo.wclk, @@@@ -, 
+INPUT write_datain[4]@@@@<->@@@@ async_fifo.wclk, @@@@ -, 
+INPUT write_datain[5]@@@@<->@@@@ async_fifo.wclk, @@@@ -, 
+INPUT write_datain[6]@@@@<->@@@@ async_fifo.wclk, @@@@ -, 
+INPUT write_datain[7]@@@@<->@@@@ async_fifo.wclk, @@@@ -, 
+INPUT ren@@@@<->@@@@ async_fifo.rclk, @@@@ -, 
+OUTPUT read_dataout[0]@@@@<->@@@@ async_fifo.rclk, @@@@ -, 
+OUTPUT read_dataout[1]@@@@<->@@@@ async_fifo.rclk, @@@@ -, 
+OUTPUT read_dataout[2]@@@@<->@@@@ async_fifo.rclk, @@@@ -, 
+OUTPUT read_dataout[3]@@@@<->@@@@ async_fifo.rclk, @@@@ -, 
+OUTPUT read_dataout[4]@@@@<->@@@@ async_fifo.rclk, @@@@ -, 
+OUTPUT read_dataout[5]@@@@<->@@@@ async_fifo.rclk, @@@@ -, 
+OUTPUT read_dataout[6]@@@@<->@@@@ async_fifo.rclk, @@@@ -, 
+OUTPUT read_dataout[7]@@@@<->@@@@ async_fifo.rclk, @@@@ -, 
+OUTPUT full@@@@<->@@@@ async_fifo.wclk, @@@@ -, 
+OUTPUT empty@@@@<->@@@@ async_fifo.rclk, @@@@ -, 
+END INFO

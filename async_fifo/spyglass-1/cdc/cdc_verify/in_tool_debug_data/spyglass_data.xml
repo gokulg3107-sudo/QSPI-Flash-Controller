@@ -1,0 +1,4240 @@
+<CWD>/home/gokulgopalakrishnan/major_project/apb/async_fifo</CWD>
+<ENVVAR>
+	<env name="SPYGLASS_SPYAUTH_FILE">
+		<value>/tmp/spyAuthFileList869621786528139</value>
+	</env>
+	<env name="LD_LIBRARY_PATH">
+		<value>/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/auxi:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/lib:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/auxi/tkgui-new:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/auxi/policy_data/spyglass/design_read:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/Audits:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/adv_lowpower:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/area:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/auto-verify:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/clock:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/constraints:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/cubic_netlist:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/dft:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/dft_dsm:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/erc:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/latch:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/lint:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/lowpower:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/mbist-dft:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/miscellaneous:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/morelint:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/openmore:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/power_est:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/prof:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/rtl2netlist:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/sec:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/simulation:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/spyglass:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/starc:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/starc2002:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/starc2005:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/starcad-21:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/timing:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/txv:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/auxi/tkgui-new/Linux4:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/auxi/rme:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/auxi/rme/Parser:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/auxi/rme/Parser/Linux4:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/lib/multi-perl/lib/5.8.3:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/lib/multi-perl/lib/site_perl/5.8.3:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/auxi/tkgui-new/Linux4:/lib64/tls:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/lib/multi-tcl/lib/Linux4:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/lib/python/Linux4/lib:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/auxi/tkgui-new/Linux4:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/lib/dbWriter:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/lib/multi-tcl/lib/Linux4::/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/lib/multi-qt/lib/Linux4:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/lib/multi-nlview/Linux4:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/lib/multi-boost/Linux4:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/lib/multi-thirdparty/Linux4:/depot/gcc-4.8.3-patch/lib64:/usr/lib64:/usr/X11R6/lib64:/usr/local/lib64:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/lib/multi-vcst/vcs-mx/linux64/lib:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/lib:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/lib/oa/Linux4:::/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/lib/oa/Linux4::/usr/lib:/lib:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/lib/zebulib</value>
+	</env>
+	<env name="REMOTEHOST">
+		<value>106.219.126.196</value>
+	</env>
+	<env name="XDG_SESSION_ID">
+		<value>77575</value>
+	</env>
+	<env name="HOSTNAME">
+		<value>feserver.mirafra.com</value>
+	</env>
+	<env name="SKIP_PLATFORM_CHECK">
+		<value>1</value>
+	</env>
+	<env name="TERM">
+		<value>xterm</value>
+	</env>
+	<env name="SHELL">
+		<value>/bin/bash</value>
+	</env>
+	<env name="HOST">
+		<value>feserver.mirafra.com</value>
+	</env>
+	<env name="HISTSIZE">
+		<value>1000</value>
+	</env>
+	<env name="SPYGLASS_DW_PATH">
+		<value>/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/dw_support</value>
+	</env>
+	<env name="SSH_CLIENT">
+		<value>106.219.126.196 5789 22</value>
+	</env>
+	<env name="TMPDIR">
+		<value/>
+	</env>
+	<env name="LD_PRELOAD">
+		<value/>
+	</env>
+	<env name="SPYGLASS_IPC_SERVER_APP_INFO">
+		<value>/tmp/.SPYGLASS_IPC_SERVER_APP_INFO@@139</value>
+	</env>
+	<env name="QTDIR">
+		<value>/usr/lib64/qt-3.3</value>
+	</env>
+	<env name="SPYGLASS_ENABLE_LICENSE_QUEUE">
+		<value>1</value>
+	</env>
+	<env name="QTINC">
+		<value>/usr/lib64/qt-3.3/include</value>
+	</env>
+	<env name="SSH_TTY">
+		<value>/dev/pts/255</value>
+	</env>
+	<env name="LC_ALL">
+		<value/>
+	</env>
+	<env name="QT_GRAPHICSSYSTEM_CHECKED">
+		<value>1</value>
+	</env>
+	<env name="SG_SPYGLASS_DW_PATH">
+		<value>1</value>
+	</env>
+	<env name="USER">
+		<value>gokulgopalakrishnan</value>
+	</env>
+	<env name="GROUP">
+		<value>gokulgopalakrishnan</value>
+	</env>
+	<env name="LS_COLORS">
+		<value>rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:</value>
+	</env>
+	<env name="TCL_LIBRARY">
+		<value>/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/lib/multi-tcl/lib/tcl</value>
+	</env>
+	<env name="HOSTTYPE">
+		<value>x86_64-linux</value>
+	</env>
+	<env name="SNPSLMD_LICENSE_FILE">
+		<value>27020@ls01.trg.vlsiexpert.in</value>
+	</env>
+	<env name="SPYGLASS_PLATFORM">
+		<value>Linux4</value>
+	</env>
+	<env name="SPYGLASS_TMPDIR">
+		<value>/tmp</value>
+	</env>
+	<env name="VC_STATIC_HOME">
+		<value>/fetools/synopsys/installed_tools/vc_static/U-2023.03-1</value>
+	</env>
+	<env name="MAIL">
+		<value>/var/spool/mail/gokulgopalakrishnan</value>
+	</env>
+	<env name="PATH">
+		<value>/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/../dotty/scripts:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/../dotty/bin/Linux4:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/obj:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/bin::/usr/local/bin:/usr/bin:/bin:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/obj:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/bin::/usr/local/bin:/usr/bin:/bin:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/obj:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/bin::/usr/local/bin:/usr/bin:/bin:/fetools/synopsys/installed_tools/vc_static/U-2023.03-1/bin:/fetools/synopsys/installed_tools/verdi/verdi/Q-2020.03-SP2-8/bin:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/bin:/fetools/synopsys/installed_tools/syn/S-2021.06-SP4/bin:/fetools/synopsys/installed_tools/vcs/vcs/Q-2020.03-SP2-8/bin:/fetools/synopsys/installed_tools/Formality/fm/S-2021.06-SP2/bin:/fetools/synopsys/installed_tools/primetime/prime/S-2021.06-SP2/bin:/fetools/synopsys/installed_tools/icc2/Q-2019.12-SP1/bin:/fetools/synopsys/installed_tools/vc_static/U-2023.03-1/bin:/fetools/synopsys/installed_tools/verdi/verdi/Q-2020.03-SP2-8/bin:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/bin:/fetools/synopsys/installed_tools/syn/S-2021.06-SP4/bin:/fetools/synopsys/installed_tools/vcs/vcs/Q-2020.03-SP2-8/bin:/fetools/synopsys/installed_tools/Formality/fm/S-2021.06-SP2/bin:/fetools/synopsys/installed_tools/primetime/prime/S-2021.06-SP2/bin:/fetools/synopsys/installed_tools/icc2/Q-2019.12-SP1/bin:/usr/lib64/qt-3.3/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/gokulgopalakrishnan/bin/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin</value>
+	</env>
+	<env name="Prime_HOME">
+		<value>/fetools/synopsys/installed_tools/primetime/prime/S-2021.06-SP2</value>
+	</env>
+	<env name="SNPSLMD_QUEUE">
+		<value>true</value>
+	</env>
+	<env name="SAVE_CATALOG">
+		<value>PATH</value>
+	</env>
+	<env name="VERDI_HOME">
+		<value>/fetools/synopsys/installed_tools/verdi/verdi/Q-2020.03-SP2-8</value>
+	</env>
+	<env name="PWD">
+		<value>/home/gokulgopalakrishnan/major_project/apb/async_fifo</value>
+	</env>
+	<env name="CMD_FILE_PATH">
+		<value>/tmp/cmdfile_86962</value>
+	</env>
+	<env name="VCS_HOME">
+		<value>/fetools/synopsys/installed_tools/vcs/vcs/Q-2020.03-SP2-8</value>
+	</env>
+	<env name="SG_CONSOLE_SE">
+		<value>1</value>
+	</env>
+	<env name="LANG">
+		<value/>
+	</env>
+	<env name="SPYGLASS_IPC_SERVER_APP_PID">
+		<value>87245</value>
+	</env>
+	<env name="ICC_HOME">
+		<value>/fetools/synopsys/installed_tools/icc2/Q-2019.12-SP1</value>
+	</env>
+	<env name="SPG_INTRNL_INVCN">
+		<value>1</value>
+	</env>
+	<env name="SSH_ASKPASS">
+		<value>/usr/libexec/openssh/gnome-ssh-askpass</value>
+	</env>
+	<env name="HISTCONTROL">
+		<value>ignoredups</value>
+	</env>
+	<env name="SPYGLASS_USE_SNPSMEM">
+		<value>yes</value>
+	</env>
+	<env name="SHLVL">
+		<value>7</value>
+	</env>
+	<env name="HOME">
+		<value>/home/gokulgopalakrishnan</value>
+	</env>
+	<env name="OSTYPE">
+		<value>linux</value>
+	</env>
+	<env name="FORMALITY">
+		<value>/fetools/synopsys/installed_tools/Formality/fm/S-2021.06-SP2</value>
+	</env>
+	<env name="VENDOR">
+		<value>unknown</value>
+	</env>
+	<env name="LOGNAME">
+		<value>gokulgopalakrishnan</value>
+	</env>
+	<env name="MACHTYPE">
+		<value>x86_64</value>
+	</env>
+	<env name="DC_HOME">
+		<value>/fetools/synopsys/installed_tools/syn/S-2021.06-SP4</value>
+	</env>
+	<env name="QTLIB">
+		<value>/usr/lib64/qt-3.3/lib</value>
+	</env>
+	<env name="SPYGLASS_HOME">
+		<value>/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME</value>
+	</env>
+	<env name="SPYGLASS_ENABLE_SYS_IPC_SERVER">
+		<value>yes</value>
+	</env>
+	<env name="SPYGLASS_TCL_SHELL">
+		<value>ok</value>
+	</env>
+	<env name="XDG_DATA_DIRS">
+		<value>/home/gokulgopalakrishnan/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share</value>
+	</env>
+	<env name="SSH_CONNECTION">
+		<value>106.219.126.196 5789 192.168.1.16 22</value>
+	</env>
+	<env name="SPYGLASS_LD_PRELOAD">
+		<value>/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/lib/libreplacemalloc.so</value>
+	</env>
+	<env name="LESSOPEN">
+		<value>||/usr/bin/lesspipe.sh %s</value>
+	</env>
+	<env name="SHLIB_PATH">
+		<value>/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/lib:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/lib/oa/Linux4:::/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/lib/oa/Linux4::/usr/lib:/lib</value>
+	</env>
+	<env name="SPYGLASS_LICENSE_QUEUING_INTERVAL">
+		<value>24000 10</value>
+	</env>
+	<env name="XDG_RUNTIME_DIR">
+		<value>/run/user/6892</value>
+	</env>
+	<env name="DISPLAY">
+		<value>localhost:11.0</value>
+	</env>
+	<env name="SPG_RANDOM">
+		<value>86742</value>
+	</env>
+	<env name="SPG_CMD_PARSE_TO_GET_SCREEN_OUT_SETTING">
+		<value>no</value>
+	</env>
+	<env name="SPYGLASS_CHECKER_PID_FILE_VAR">
+		<value>/tmp/.SPYGLASS_CHECKER_PID_FILE@@86962139</value>
+	</env>
+	<env name="SAVE_PATH">
+		<value>/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/obj:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/bin::/usr/local/bin:/usr/bin:/bin:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/obj:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/bin::/usr/local/bin:/usr/bin:/bin:/fetools/synopsys/installed_tools/vc_static/U-2023.03-1/bin:/fetools/synopsys/installed_tools/verdi/verdi/Q-2020.03-SP2-8/bin:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/bin:/fetools/synopsys/installed_tools/syn/S-2021.06-SP4/bin:/fetools/synopsys/installed_tools/vcs/vcs/Q-2020.03-SP2-8/bin:/fetools/synopsys/installed_tools/Formality/fm/S-2021.06-SP2/bin:/fetools/synopsys/installed_tools/primetime/prime/S-2021.06-SP2/bin:/fetools/synopsys/installed_tools/icc2/Q-2019.12-SP1/bin:/fetools/synopsys/installed_tools/vc_static/U-2023.03-1/bin:/fetools/synopsys/installed_tools/verdi/verdi/Q-2020.03-SP2-8/bin:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/bin:/fetools/synopsys/installed_tools/syn/S-2021.06-SP4/bin:/fetools/synopsys/installed_tools/vcs/vcs/Q-2020.03-SP2-8/bin:/fetools/synopsys/installed_tools/Formality/fm/S-2021.06-SP2/bin:/fetools/synopsys/installed_tools/primetime/prime/S-2021.06-SP2/bin:/fetools/synopsys/installed_tools/icc2/Q-2019.12-SP1/bin:/usr/lib64/qt-3.3/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/gokulgopalakrishnan/bin/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin</value>
+	</env>
+	<env name="_">
+		<value>/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/obj/check.Linux4</value>
+	</env>
+	<env name="CONCORDE_HOME">
+		<value>DUMMY_CONCORDE_HOME</value>
+	</env>
+	<env name="FLEXLM_BORROWFILE">
+		<value>/home/gokulgopalakrishnan/.feserver.mirafra.com-borrow.txt</value>
+	</env>
+	<env name="MANPATH">
+		<value>/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/starc/sgtcl/man:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/power_est/sgtcl/man:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/morelint/sgtcl/man:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/lowpower/sgtcl/man:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/lint/sgtcl/man:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/latch/sgtcl/man:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/erc/sgtcl/man:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/dft/sgtcl/man:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/constraints/sgtcl/man:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/clock/sgtcl/man:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/policies/auto-verify/sgtcl/man:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/lib/multi-tcl/man:/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/auxi/help_doc/man</value>
+	</env>
+	<env name="METHODOLOGY_HOME">
+		<value>/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/GuideWare/latest/block/rtl_handoff</value>
+	</env>
+	<env name="DC423655E942576A2E296032B4D9445759AC4B11777DC209C28E3348655F0953">
+		<value>37BCF0AD5FAD9627D2BCCBE9AE9ABDD0FFCD1A2C81B0BE56</value>
+	</env>
+</ENVVAR>
+<ENVFILE>./spyglass-1/cdc/cdc_verify//.sg.env</ENVFILE>
+<SPG_VERSION>SpyGlass_vS-2021.09-SP1</SPG_VERSION>
+<MACHINE name="feserver.mirafra.com" version="#1 SMP Wed Mar 20 15:54:52 UTC 2024"/>
+<Options>
+	<Opt name="--template_info">
+		<value>cdc/cdc_verify</value>
+	</Opt>
+	<Opt name="-lib">
+		<value>WORK=&gt;./spyglass-1/WORK</value>
+		<value>SYNOPSYS=&gt;/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/vhdl_libs/Linux4/SYNOPSYS</value>
+	</Opt>
+	<Opt name="-m">
+		<value>SpyGlass::Compatibility::v2_7_3</value>
+		<value>SpyGlass::Compatibility::v2_7_3</value>
+		<value>SpyGlass::Compatibility::v2_7_3</value>
+	</Opt>
+	<Opt name="-overloadrules">
+		<value>Ac_clockperiod01+severity=Error</value>
+		<value>Clock_info03a+severity=Error</value>
+		<value>Clock_info05+severity=Error</value>
+		<value>Clock_info05a+severity=Error</value>
+		<value>Clock_info05b+severity=Error</value>
+		<value>Ac_resetvalue01+severity=Error</value>
+		<value>Reset_info09a+severity=Error</value>
+		<value>Clock_converge01+severity=Error</value>
+		<value>Reset_check03+severity=Error</value>
+		<value>Reset_check11+severity=Error</value>
+		<value>Reset_check12+severity=Error+msgLabel=NORMAL_WARNING</value>
+		<value>Reset_check12+severity=Info+msgLabel=CORNER_WARNING</value>
+		<value>Clock_info03c+severity=Error</value>
+		<value>Clock_sync05+severity=Error</value>
+		<value>Clock_sync06+severity=Error</value>
+		<value>Reset_sync02+msgLabel=RstDomainMisMatch+severity=Error</value>
+		<value>Reset_sync02+msgLabel=RstDomainMisMatch_2+severity=Error</value>
+		<value>Reset_sync02+msgLabel=RstDomainMisMatchWithTag+severity=Error</value>
+		<value>Reset_sync02+msgLabel=RstDomainMisMatch_2WithTag+severity=Error</value>
+	</Opt>
+	<Opt name="-policy">
+		<value>clock-reset</value>
+	</Opt>
+	<Opt name="-report">
+		<value>moresimple</value>
+		<value>runsummary</value>
+	</Opt>
+	<Opt name="-rules">
+		<value>Ac_clockperiod01</value>
+		<value>Ac_clockperiod02</value>
+		<value>Ac_clockperiod03</value>
+		<value>Clock_info03a</value>
+		<value>Clock_info05</value>
+		<value>Clock_info05b</value>
+		<value>Ac_resetvalue01</value>
+		<value>Reset_info09a</value>
+		<value>Clock_converge01</value>
+		<value>Ar_converge01</value>
+		<value>Reset_check03</value>
+		<value>Reset_check11</value>
+		<value>Reset_check12</value>
+		<value>Clock_info03b</value>
+		<value>Clock_info03c</value>
+		<value>Setup_port01</value>
+		<value>Setup_blackbox01</value>
+		<value>Clock_check10</value>
+		<value>Ac_initstate01</value>
+		<value>Ar_syncrstactive01</value>
+		<value>Ar_syncrstcombo01</value>
+		<value>Ar_syncrstload01</value>
+		<value>Ar_syncrstload02</value>
+		<value>Ar_syncrstpragma01</value>
+		<value>Ar_syncrstrtl01</value>
+		<value>Ac_unsync01</value>
+		<value>Ac_unsync02</value>
+		<value>Clock_sync05</value>
+		<value>Clock_sync05a</value>
+		<value>Clock_sync06</value>
+		<value>Clock_sync06a</value>
+		<value>Ar_unsync01</value>
+		<value>Ar_asyncdeassert01</value>
+		<value>Reset_sync02</value>
+		<value>Reset_sync04</value>
+		<value>Ac_datahold01a</value>
+		<value>Ac_conv01</value>
+		<value>Ac_conv02</value>
+		<value>Ac_conv03</value>
+		<value>Ac_conv04</value>
+		<value>Ac_coherency06</value>
+		<value>Ac_glitch03</value>
+		<value>Ac_cdc01a</value>
+		<value>Ac_crossing01</value>
+		<value>Ac_sync01</value>
+		<value>Ac_sync02</value>
+		<value>Ar_sync01</value>
+		<value>Ar_syncdeassert01</value>
+		<value>Clock_info15</value>
+		<value>Setup_quasi_static01</value>
+		<value>Ar_syncrst_setupcheck01</value>
+		<value>Info_Case_Analysis</value>
+		<value>Clock_info05c</value>
+		<value>Clock_glitch05</value>
+		<value>Clock_info01</value>
+		<value>Reset_info01</value>
+		<value>FalsePathSetup</value>
+		<value>Setup_library01</value>
+	</Opt>
+	<Opt name="-sgdc">
+		<value>con_asyncfifo.sgdc</value>
+	</Opt>
+	<Opt name="-template">
+		<value>cdc/cdc_verify</value>
+	</Opt>
+	<Opt name="-verilog_files">
+		<value>async_fifo.v</value>
+	</Opt>
+	<Opt name="--stime">
+		<value>03:18:59 PM on Aug 12 2026</value>
+	</Opt>
+	<Opt name="-blackboxdir">
+		<value>inout</value>
+	</Opt>
+	<Opt name="-dbdir">
+		<value>./spyglass-1/.SG_SaveRestoreDB</value>
+	</Opt>
+	<Opt name="-debuglevel">
+		<value>0</value>
+	</Opt>
+	<Opt name="-enable_save_restore_builtin">
+		<value>true</value>
+	</Opt>
+	<Opt name="-gateslibtype">
+		<value>0</value>
+	</Opt>
+	<Opt name="-logfile">
+		<value>./spyglass-1/cdc/cdc_verify/spyglass.log</value>
+	</Opt>
+	<Opt name="-mthresh">
+		<value>4096</value>
+	</Opt>
+	<Opt name="-projectwdir">
+		<value>./spyglass-1</value>
+	</Opt>
+	<Opt name="-restoredb">
+		<value>./spyglass-1/.SG_SaveRestoreDB</value>
+	</Opt>
+	<Opt name="-sdc_generate_cfp">
+		<value>yes</value>
+	</Opt>
+	<Opt name="-sortmethod">
+		<value>du</value>
+	</Opt>
+	<Opt name="-templatedir">
+		<value>/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME/GuideWare/latest/block/rtl_handoff</value>
+	</Opt>
+	<Opt name="-vdbfile">
+		<value>./spyglass-1/cdc/cdc_verify/spyglass.vdb</value>
+	</Opt>
+	<Opt name="-wdir">
+		<value>./spyglass-1/cdc/cdc_verify</value>
+	</Opt>
+	<Opt name="-work">
+		<value>WORK</value>
+	</Opt>
+	<Opt name="-64bit">
+		<value>yes</value>
+	</Opt>
+	<Opt name="--end_of_user_arg">
+		<value>yes</value>
+	</Opt>
+	<Opt name="-batch">
+		<value>yes</value>
+	</Opt>
+	<Opt name="-decompile_block_constraints">
+		<value>yes</value>
+	</Opt>
+	<Opt name="-enable_const_prop_thru_seq">
+		<value>yes</value>
+	</Opt>
+	<Opt name="-enable_save_restore">
+		<value>yes</value>
+	</Opt>
+	<Opt name="-inferblackbox">
+		<value>yes</value>
+	</Opt>
+	<Opt name="-nl">
+		<value>yes</value>
+	</Opt>
+	<Opt name="-sdc2sgdc">
+		<value>yes</value>
+	</Opt>
+	<Opt name="-use_advcdc_features">
+		<value>yes</value>
+	</Opt>
+	<Opt name="-mixed">
+		<value>yes</value>
+	</Opt>
+</Options>
+<TOP_MODULE/>
+<GOAL_NAME>cdc/cdc_verify</GOAL_NAME>
+<FILES>
+	<FILE name="con_asyncfifo.sgdc" type="SGDC"/>
+</FILES>
+<SPG_LOG>./spyglass-1/cdc/cdc_verify/spyglass.log</SPG_LOG>
+<CMD_STRING> -batch -project spyglass-1.prj -goal cdc/cdc_verify -64bit</CMD_STRING>
+<NOM_DESIGN>
+	<Modules>3</Modules>
+	<Instances>463</Instances>
+	<Nets>2359</Nets>
+	<Terminals>2359</Terminals>
+	<MAX>377</MAX>
+	<Avg>154</Avg>
+</NOM_DESIGN>
+<FLAT_DESIGN>
+	<Instances>461</Instances>
+	<Nets>523</Nets>
+	<Terminals>2283</Terminals>
+	<Paths>3</Paths>
+	<Ports>26</Ports>
+	<BBOX_Inst>0</BBOX_Inst>
+	<LIB_Inst>0</LIB_Inst>
+	<ILM_Inst>0</ILM_Inst>
+</FLAT_DESIGN>
+<BlackBox/>
+<WAIVER_COUNT>
+	<Applied>0</Applied>
+	<Reduntant>0</Reduntant>
+	<Viol_Waived>0</Viol_Waived>
+</WAIVER_COUNT>
+<PEAK_MEMORY>3068128</PEAK_MEMORY>
+<Parameters>
+	<Param name="-Reset_info09a_filter_on_constant_clock">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-ac_sync_mode">
+		<DefaultValue>strict_gate,strict_qual_logic</DefaultValue>
+		<Value>strict_gate,strict_qual_logic</Value>
+	</Param>
+	<Param name="-ac_sync_report_all_clocks">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-all_converging_clocks">
+		<DefaultValue>yes</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-all_potential_qual">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-allow_abstracted_clock_as_derived">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-allow_any_async_pin">
+		<DefaultValue>yes</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-allow_cascaded_cgc">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-allow_clock_on_hier_term">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-allow_clock_on_output_port">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-allow_combo_logic">
+		<DefaultValue>no</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-allow_crossing_src_as_src_qual">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-allow_enabled_multiflop">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-allow_half_sync">
+		<DefaultValue>yes</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-allow_hier_virtual_qualifier">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-allow_merged_qualifier">
+		<DefaultValue>yes</DefaultValue>
+		<Value>strict</Value>
+	</Param>
+	<Param name="-allow_multi_dom_src_control_sync_crossings">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-allow_non_const_reset_sync_chain">
+		<DefaultValue>yes</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-allow_qualifier_without_srcdes">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-allow_recirculation_mux_enabled_multiflop">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-allow_sync_cell_override">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-allow_unconstrained_reset_in_rfp">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-allowed_nff_hierarchy">
+		<DefaultValue>all</DefaultValue>
+		<Value>all</Value>
+	</Param>
+	<Param name="-always_prop_reset_thru_reset_synchronizer">
+		<DefaultValue>yes</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-and_or_based_cgc">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-assign_same_dom_on_abstract_clock_output">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-auto_detect_datahold01_enable">
+		<DefaultValue>yes</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-auto_model_seq_lib_pin_type">
+		<DefaultValue>all</DefaultValue>
+		<Value>all</Value>
+	</Param>
+	<Param name="-auto_model_seq_lib_pins">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-backward_compat">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-cdc_attribute_hier_flow">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-cdc_attribute_ignore_buf_inv">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-cdc_bus_compress">
+		<DefaultValue>Ac_glitch03,Ac_cdc01</DefaultValue>
+		<Value>Ac_glitch03,Ac_cdc01</Value>
+	</Param>
+	<Param name="-cdc_compatible">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-cdc_disable_sva">
+		<DefaultValue>none</DefaultValue>
+		<Value>none</Value>
+	</Param>
+	<Param name="-cdc_dump_assertions">
+		<DefaultValue>none</DefaultValue>
+		<Value>none</Value>
+	</Param>
+	<Param name="-cdc_effective_bus_verif">
+		<DefaultValue>none</DefaultValue>
+		<Value>none</Value>
+	</Param>
+	<Param name="-cdc_express">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-cdc_gen_unrelated_coherency">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-cdc_ignore_multi_domain">
+		<DefaultValue>none</DefaultValue>
+		<Value>none</Value>
+	</Param>
+	<Param name="-cdc_qualifier_depth">
+		<DefaultValue>3</DefaultValue>
+		<Value>3</Value>
+	</Param>
+	<Param name="-cdc_qualifier_depth_start">
+		<DefaultValue>num_flop</DefaultValue>
+		<Value>num_flop</Value>
+	</Param>
+	<Param name="-cdc_reduce_pessimism">
+		<DefaultValue>mbit_macro,no_convergence_at_syncreset,no_convergence_at_enable</DefaultValue>
+		<Value>mbit_macro,no_convergence_at_syncreset,no_convergence_at_enable,use_multi_arc,clock_crossing,no_unate_reconv,clock_on_ports,ignore_multi_domain</Value>
+	</Param>
+	<Param name="-cdc_report_port_as_partial">
+		<DefaultValue>all</DefaultValue>
+		<Value>all</Value>
+	</Param>
+	<Param name="-cdc_src_dest_qual_exact_depth">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-cdc_sva_margin">
+		<DefaultValue>100</DefaultValue>
+		<Value>100</Value>
+	</Param>
+	<Param name="-cdc_verbose">
+		<DefaultValue>UNDEFINED</DefaultValue>
+		<Value>UNDEFINED</Value>
+	</Param>
+	<Param name="-check_all_clock_fanin_for_glitch">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-check_all_derived_reset_fanins">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-check_clock_group_violations">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-check_clock_relationship_hier_flow">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-check_combo_no_on_vclk_ports">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-check_domain_on_clock_path">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-check_edge">
+		<DefaultValue>yes</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-check_effective_direction_of_inout_ports">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-check_for_reset_beyond_quasi_static">
+		<DefaultValue>yes</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-check_multiclock_bbox">
+		<DefaultValue>no</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-check_port_setup">
+		<DefaultValue>input</DefaultValue>
+		<Value>input</Value>
+	</Param>
+	<Param name="-check_reset_for_constclock">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-clock_as_data_end_point">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-clock_gate_cell">
+		<DefaultValue>UNDEFINED</DefaultValue>
+		<Value>UNDEFINED</Value>
+	</Param>
+	<Param name="-clock_group_show_domain">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-clock_info01_stop_domain_computation">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-clock_reduce_pessimism">
+		<DefaultValue>latch_en,mux_sel_derived,check_enable_for_glitch</DefaultValue>
+		<Value>latch_en,mux_sel_derived,check_enable_for_glitch,ignore_same_domain</Value>
+	</Param>
+	<Param name="-clock_usage">
+		<DefaultValue>data,control,reset,bbox,others</DefaultValue>
+		<Value>data,control,reset,bbox,others</Value>
+	</Param>
+	<Param name="-clocks_pair">
+		<DefaultValue>UNDEFINED</DefaultValue>
+		<Value>UNDEFINED</Value>
+	</Param>
+	<Param name="-coherency_check_type">
+		<DefaultValue>control</DefaultValue>
+		<Value>control</Value>
+	</Param>
+	<Param name="-compute_num_convergences">
+		<DefaultValue>1</DefaultValue>
+		<Value>1</Value>
+	</Param>
+	<Param name="-configure_netlist_results">
+		<DefaultValue>none</DefaultValue>
+		<Value>none</Value>
+	</Param>
+	<Param name="-constant_only_blocking_for_known_complex_seq">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-conv03_report_seq_conv">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-conv_all_mux_data_pins">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-conv_clock_reset_path">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-conv_exclusivity_check">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-conv_resolve_multisrc_domains">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-conv_src_schematic">
+		<DefaultValue>yes</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-conv_src_seq_depth">
+		<DefaultValue>-1</DefaultValue>
+		<Value>-1</Value>
+	</Param>
+	<Param name="-conv_sync_as_src">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-conv_sync_seq_depth">
+		<DefaultValue>0</DefaultValue>
+		<Value>1</Value>
+	</Param>
+	<Param name="-conv_sync_seq_depth_opt">
+		<DefaultValue>no</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-convergence_stop_at_mux">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-datahold_soft_assertion_enable_info">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-deassert_mode">
+		<DefaultValue>none</DefaultValue>
+		<Value>none</Value>
+	</Param>
+	<Param name="-debug_proc">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-define_full_constraints">
+		<DefaultValue>none</DefaultValue>
+		<Value>none</Value>
+	</Param>
+	<Param name="-delayed_ptr_fifo">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-disable_cdc_analysis">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-disable_cdc_attrib_propagation">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-disable_inst_grouping">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-disable_seq_clock_prop">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-distributed_fifo">
+		<DefaultValue>no</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-dump_all_mem_port_constraint">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-dump_cdc_attrib_file_for_conv_rules">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-dump_detailed_info">
+		<DefaultValue>none</DefaultValue>
+		<Value>none</Value>
+	</Param>
+	<Param name="-dump_detailed_quasi_static_sva_info">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-dump_inferred_qualifier">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-dump_sync_info">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-enable_ac_sync_qualdepth">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-enable_and_sync">
+		<DefaultValue>no</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-enable_auto_inferred_qualifier">
+		<DefaultValue>yes</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-enable_cdc_explorer">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-enable_clock_gate_sync">
+		<DefaultValue>yes</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-enable_clock_glitch_sync">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-enable_clock_path_crossings">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-enable_condition_based_sync">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-enable_conv_check_at_soc">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-enable_debug_data">
+		<DefaultValue>no</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-enable_debug_data_type">
+		<DefaultValue>clock,reset,domain,quasi</DefaultValue>
+		<Value>clock,reset,domain,quasi</Value>
+	</Param>
+	<Param name="-enable_delayed_qualifier">
+		<DefaultValue>yes</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-enable_depth_based_soc_check">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-enable_derived_reset">
+		<DefaultValue>yes</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-enable_fifo">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-enable_glitchfreecell_detection">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-enable_handshake">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-enable_lock_sync">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-enable_mode_computation">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-enable_multiflop_sync">
+		<DefaultValue>all</DefaultValue>
+		<Value>all</Value>
+	</Param>
+	<Param name="-enable_mux_dest_domain">
+		<DefaultValue>UNDEFINED</DefaultValue>
+		<Value>UNDEFINED</Value>
+	</Param>
+	<Param name="-enable_mux_sync">
+		<DefaultValue>recirculation</DefaultValue>
+		<Value>all</Value>
+	</Param>
+	<Param name="-enable_quasi_static_prop_thru_clock">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-enable_reset_cone_spreadsheet">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-enable_strict_glitch_analysis">
+		<DefaultValue>none</DefaultValue>
+		<Value>none</Value>
+	</Param>
+	<Param name="-enable_sync">
+		<DefaultValue>yes</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-enable_sync_cell">
+		<DefaultValue>UNDEFINED</DefaultValue>
+		<Value>UNDEFINED</Value>
+	</Param>
+	<Param name="-enable_virtual_diff_in_auto">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-expand_wildcard_names_in_reports">
+		<DefaultValue>yes</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-fa_abstract">
+		<DefaultValue>Ac_handshake01</DefaultValue>
+		<Value>Ac_handshake01</Value>
+	</Param>
+	<Param name="-fa_atime">
+		<DefaultValue>UNDEFINED</DefaultValue>
+		<Value>UNDEFINED</Value>
+	</Param>
+	<Param name="-fa_audit">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-fa_c2c_max_cycles">
+		<DefaultValue>100</DefaultValue>
+		<Value>100</Value>
+	</Param>
+	<Param name="-fa_clock_fsm_revamp">
+		<DefaultValue>yes</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-fa_coverage_data_transfer">
+		<DefaultValue>10</DefaultValue>
+		<Value>10</Value>
+	</Param>
+	<Param name="-fa_coverage_datahold_setup">
+		<DefaultValue>1</DefaultValue>
+		<Value>1</Value>
+	</Param>
+	<Param name="-fa_coverage_disable_sff">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-fa_coverage_gray_toggle">
+		<DefaultValue>10</DefaultValue>
+		<Value>10</Value>
+	</Param>
+	<Param name="-fa_coverage_grayencode_setup">
+		<DefaultValue>1</DefaultValue>
+		<Value>1</Value>
+	</Param>
+	<Param name="-fa_coverage_witness">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-fa_disable_analysis">
+		<DefaultValue>none</DefaultValue>
+		<Value>none</Value>
+	</Param>
+	<Param name="-fa_dump_hybrid">
+		<DefaultValue>partial</DefaultValue>
+		<Value>partial</Value>
+	</Param>
+	<Param name="-fa_enable_cdr_coverage">
+		<DefaultValue>yes</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-fa_enable_cdr_reactive">
+		<DefaultValue>yes</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-fa_enable_crpt">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-fa_enable_quasi_static_margin">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-fa_enable_quasi_static_setup">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-fa_enable_quasi_static_sync">
+		<DefaultValue>yes</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-fa_enable_rca">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-fa_flopcount">
+		<DefaultValue>-1</DefaultValue>
+		<Value>-1</Value>
+	</Param>
+	<Param name="-fa_generate_relevant_signals">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-fa_grayhold">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-fa_hide_complex_expr">
+		<DefaultValue>yes</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-fa_holdmargin">
+		<DefaultValue>1</DefaultValue>
+		<Value>1</Value>
+	</Param>
+	<Param name="-fa_holdmargin_window">
+		<DefaultValue>0</DefaultValue>
+		<Value>0</Value>
+	</Param>
+	<Param name="-fa_hybrid_dynamic_margin">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-fa_hybrid_report_hier">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-fa_ieffort">
+		<DefaultValue>0</DefaultValue>
+		<Value>0</Value>
+	</Param>
+	<Param name="-fa_init_time">
+		<DefaultValue>UNDEFINED</DefaultValue>
+		<Value>UNDEFINED</Value>
+	</Param>
+	<Param name="-fa_meta">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-fa_minimize_witness">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-fa_modulelist">
+		<DefaultValue>UNDEFINED</DefaultValue>
+		<Value>UNDEFINED</Value>
+	</Param>
+	<Param name="-fa_msgmode">
+		<DefaultValue>fail,pp,coverage,cdr</DefaultValue>
+		<Value>all</Value>
+	</Param>
+	<Param name="-fa_multicore">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-fa_num_cores">
+		<DefaultValue>UNDEFINED</DefaultValue>
+		<Value>UNDEFINED</Value>
+	</Param>
+	<Param name="-fa_opt_clock_fsm">
+		<DefaultValue>sync</DefaultValue>
+		<Value>sync</Value>
+	</Param>
+	<Param name="-fa_parallelfile">
+		<DefaultValue>UNDEFINED</DefaultValue>
+		<Value>UNDEFINED</Value>
+	</Param>
+	<Param name="-fa_preprocess_engine">
+		<DefaultValue>none</DefaultValue>
+		<Value>none</Value>
+	</Param>
+	<Param name="-fa_proof_mode">
+		<DefaultValue>full</DefaultValue>
+		<Value>full</Value>
+	</Param>
+	<Param name="-fa_propfile">
+		<DefaultValue>UNDEFINED</DefaultValue>
+		<Value>UNDEFINED</Value>
+	</Param>
+	<Param name="-fa_rca_fix_limit">
+		<DefaultValue>3</DefaultValue>
+		<Value>3</Value>
+	</Param>
+	<Param name="-fa_rca_percentage">
+		<DefaultValue>10</DefaultValue>
+		<Value>10</Value>
+	</Param>
+	<Param name="-fa_reset_sync_hold_margin">
+		<DefaultValue>1</DefaultValue>
+		<Value>1</Value>
+	</Param>
+	<Param name="-fa_resetoff">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-fa_scope">
+		<DefaultValue>chip</DefaultValue>
+		<Value>chip</Value>
+	</Param>
+	<Param name="-fa_seqdepth">
+		<DefaultValue>-1</DefaultValue>
+		<Value>-1</Value>
+	</Param>
+	<Param name="-fa_sff_atsrc">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-fa_vcdfile">
+		<DefaultValue>UNDEFINED</DefaultValue>
+		<Value>UNDEFINED</Value>
+	</Param>
+	<Param name="-fa_vcdfulltrace">
+		<DefaultValue>usernets</DefaultValue>
+		<Value>allnets</Value>
+	</Param>
+	<Param name="-fa_vcdscopename">
+		<DefaultValue>UNDEFINED</DefaultValue>
+		<Value>UNDEFINED</Value>
+	</Param>
+	<Param name="-fa_vcdtime">
+		<DefaultValue>-1</DefaultValue>
+		<Value>-1</Value>
+	</Param>
+	<Param name="-fa_verbose">
+		<DefaultValue>0</DefaultValue>
+		<Value>0</Value>
+	</Param>
+	<Param name="-fa_verif_cycles">
+		<DefaultValue>1024</DefaultValue>
+		<Value>1024</Value>
+	</Param>
+	<Param name="-fa_verify_slow_to_fast">
+		<DefaultValue>100</DefaultValue>
+		<Value>100</Value>
+	</Param>
+	<Param name="-false_path_enable_hier_view">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-filter_clock_converge_on_cdc">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-filter_named_clocks">
+		<DefaultValue>rst,reset,scan,set</DefaultValue>
+		<Value>rst,reset,scan,set</Value>
+	</Param>
+	<Param name="-filter_named_resets">
+		<DefaultValue>clk,clock,scan</DefaultValue>
+		<Value>clk,clock,scan</Value>
+	</Param>
+	<Param name="-filter_reset_info09a_on_quasi_static">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-force_genclk_for_txv">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-formal_setup_rules_check">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-format_report">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-gen_sync_reset_style_info">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-generate_at_output">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-generate_rfp_suppressed_violations">
+		<DefaultValue>none</DefaultValue>
+		<Value>none</Value>
+	</Param>
+	<Param name="-glitch_check_type">
+		<DefaultValue>sync_control</DefaultValue>
+		<Value>sync_control</Value>
+	</Param>
+	<Param name="-glitch_on_quasi_src">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-glitch_on_sync_src">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-glitch_on_unconstrained_src">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-glitch_protect_cell">
+		<DefaultValue>UNDEFINED</DefaultValue>
+		<Value>UNDEFINED</Value>
+	</Param>
+	<Param name="-handle_combo_arc">
+		<DefaultValue>no</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-hide_debug_data">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-hier_wild_card">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-ignore_bus_clocks">
+		<DefaultValue>1024</DefaultValue>
+		<Value>1024</Value>
+	</Param>
+	<Param name="-ignore_bus_resets">
+		<DefaultValue>yes</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-ignore_genclk_src_depth">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-ignore_latches">
+		<DefaultValue>yes</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-ignore_nets_clock_path_file_name">
+		<DefaultValue>./ignore_nets_clock_path.txt</DefaultValue>
+		<Value>./ignore_nets_clock_path.txt</Value>
+	</Param>
+	<Param name="-ignore_num_rtl_buf_invs">
+		<DefaultValue>many</DefaultValue>
+		<Value>many</Value>
+	</Param>
+	<Param name="-ignore_qualifier_mismatch_rdc">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-ignore_samedom_reset_synchronizer">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-ignore_single_domain_inferred_ports">
+		<DefaultValue>yes</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-ignore_sync_method_diff">
+		<DefaultValue>UNDEFINED</DefaultValue>
+		<Value>UNDEFINED</Value>
+	</Param>
+	<Param name="-infer_abstract_port_ignore_for_constrained_ports">
+		<DefaultValue>none</DefaultValue>
+		<Value>none</Value>
+	</Param>
+	<Param name="-infer_clock_gate">
+		<DefaultValue>yes</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-infer_constraint_from_abstract_blocks">
+		<DefaultValue>none</DefaultValue>
+		<Value>none</Value>
+	</Param>
+	<Param name="-infer_data_domain_on_clock_path">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-infer_internal_clock_on_ports">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-infer_same_domain_on_bus">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-info03a_fflatch_cells">
+		<DefaultValue>UNDEFINED</DefaultValue>
+		<Value>UNDEFINED</Value>
+	</Param>
+	<Param name="-latch_as_seq">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-library_gen_clock_naming">
+		<DefaultValue>yes</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-light_weight_reconv">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-master_clock_limit">
+		<DefaultValue>1000</DefaultValue>
+		<Value>1000</Value>
+	</Param>
+	<Param name="-msg_inst_mod_report">
+		<DefaultValue>auto</DefaultValue>
+		<Value>auto</Value>
+	</Param>
+	<Param name="-multi_through_false_path">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-netlist_clock_polarity">
+		<DefaultValue>yes</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-netlist_name_convention">
+		<DefaultValue>__NULL__</DefaultValue>
+		<Value>__NULL__</Value>
+	</Param>
+	<Param name="-netlist_terminal_name_convention">
+		<DefaultValue>__NULL__</DefaultValue>
+		<Value>__NULL__</Value>
+	</Param>
+	<Param name="-no_convergence_check">
+		<DefaultValue>UNDEFINED</DefaultValue>
+		<Value>UNDEFINED</Value>
+	</Param>
+	<Param name="-num_flops">
+		<DefaultValue>2</DefaultValue>
+		<Value>2</Value>
+	</Param>
+	<Param name="-num_quasi_seq_elem">
+		<DefaultValue>0</DefaultValue>
+		<Value>0</Value>
+	</Param>
+	<Param name="-one_cross_per_dest">
+		<DefaultValue>yes</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-populate_comboelements_for_minmax_in_fromto">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-post_clock_group_population">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-prefer_abstract_port">
+		<DefaultValue>yes</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-preserve_path">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-prop_clock_thru_quasi_static">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-pt">
+		<DefaultValue>yes</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-qual_prop_beyond_quasi_dest">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-qualifier34_report_type">
+		<DefaultValue>src_qual</DefaultValue>
+		<Value>src_qual</Value>
+	</Param>
+	<Param name="-quasi_static_assertion_optimize">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-redundant_logic_depth">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-ref_clock_hier_flow">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-report_abstract_module_coverage">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-report_all_conv_points">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-report_all_fanouts_convergences">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-report_all_flops">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-report_bbox_per_master">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-report_clock_merge_name">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-report_clock_names_sgdc_qualifier10">
+		<DefaultValue>yes</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-report_clock_tag_names">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-report_common_clock">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-report_common_reset">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-report_const_clock_as_constrained">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-report_detail">
+		<DefaultValue>all</DefaultValue>
+		<Value>all</Value>
+	</Param>
+	<Param name="-report_dom_based_conv">
+		<DefaultValue>yes</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-report_indirect_port_clock">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-report_inst_for_netlist">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-report_instance_pin">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-report_lib_cell_pins">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-report_multi_clocks_in_reset_sync02">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-report_netlist_results">
+		<DefaultValue>none</DefaultValue>
+		<Value>none</Value>
+	</Param>
+	<Param name="-report_one_viol_per_conv_point">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-report_propagated_coverage">
+		<DefaultValue>yes</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-report_quasi_static_on_clock">
+		<DefaultValue>Clock_info03a</DefaultValue>
+		<Value>Clock_info03a</Value>
+	</Param>
+	<Param name="-report_reset_coverage_info">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-report_reset_sync_out">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-report_resolved_converging_mux">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-report_rfp_suppressed_violations">
+		<DefaultValue>none</DefaultValue>
+		<Value>none</Value>
+	</Param>
+	<Param name="-report_serially_connected_rst_synchonizers">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-report_uniform_name">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-report_unused_converging_clocks">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-reset_cross_seq">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-reset_deassert_value_as_sca">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-reset_info01_synchronized_derived_reset">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-reset_num_flops">
+		<DefaultValue>2</DefaultValue>
+		<Value>2</Value>
+	</Param>
+	<Param name="-reset_reduce_pessimism">
+		<DefaultValue>filter_unused_synchronizer,same_data_reset_flop</DefaultValue>
+		<Value>same_data_reset_flop,remove_overlap</Value>
+	</Param>
+	<Param name="-reset_sync_depth">
+		<DefaultValue>8</DefaultValue>
+		<Value>8</Value>
+	</Param>
+	<Param name="-reset_synchronize_cells">
+		<DefaultValue>UNDEFINED</DefaultValue>
+		<Value>UNDEFINED</Value>
+	</Param>
+	<Param name="-rfp_reduced_sanity_violation">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-run_cells_in_cktree_rules">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-same_domain_at_gate">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-same_sync_reset">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-schematic_based_waiver">
+		<DefaultValue>none</DefaultValue>
+		<Value>none</Value>
+	</Param>
+	<Param name="-setup_port_reduce_pessimism">
+		<DefaultValue>none</DefaultValue>
+		<Value>none</Value>
+	</Param>
+	<Param name="-show_all_sdc_violations">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-show_clock_tag_debug_data">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-show_constant_source">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-show_convergence_type">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-show_module_in_spreadsheet">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-show_parent_module_in_spreadsheet">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-show_quasi_static_sources_debug_data">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-show_sdc_progress">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-show_source_in_spreadsheet">
+		<DefaultValue>yes</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-show_sync_cross_in_cdc_explorer">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-side_logic_as_pass_through">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-skip_domain_sanity_checks_on_qualifier">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-sort_clock_names">
+		<DefaultValue>yes</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-sta_based_clock_relationship">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-strict_double_flop">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-strict_sync_check">
+		<DefaultValue>no</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-strict_sync_check_for_user_defined_qual">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-support_dmux_at_convergence">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-suppress_sdc_violation_in_abstract">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-sva_reset_deassert_cycles">
+		<DefaultValue>2</DefaultValue>
+		<Value>2</Value>
+	</Param>
+	<Param name="-sva_reset_deassert_data_stable_cycles">
+		<DefaultValue>2</DefaultValue>
+		<Value>2</Value>
+	</Param>
+	<Param name="-sva_reset_deassert_signal_stable">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-sva_rfp_reset_sync02_deassert_check">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-sync_check_type">
+		<DefaultValue>qual_only</DefaultValue>
+		<Value>qual_only</Value>
+	</Param>
+	<Param name="-sync_point_report_limit">
+		<DefaultValue>5</DefaultValue>
+		<Value>5</Value>
+	</Param>
+	<Param name="-sync_point_selection">
+		<DefaultValue>first</DefaultValue>
+		<Value>first</Value>
+	</Param>
+	<Param name="-sync_reset">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-sync_reset_detection">
+		<DefaultValue>yes</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-synchronize_cells">
+		<DefaultValue>UNDEFINED</DefaultValue>
+		<Value>UNDEFINED</Value>
+	</Param>
+	<Param name="-synchronize_data_cells">
+		<DefaultValue>UNDEFINED</DefaultValue>
+		<Value>UNDEFINED</Value>
+	</Param>
+	<Param name="-tc_cache_empty_collections">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-tc_disable_caching">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-tc_disable_ignored_command_dump">
+		<DefaultValue>yes</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-tc_enable_sdc_393">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-tc_ignored_commands">
+		<DefaultValue>unspecified</DefaultValue>
+		<Value>unspecified</Value>
+	</Param>
+	<Param name="-tc_stop_parsing_ignored_commands">
+		<DefaultValue>yes</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-truncate_through">
+		<DefaultValue>yes</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-unknown_clock_phase_through_seq">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-unknown_lib_with_atleast_one_arc_defined_as_seq">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-use_inferred_abstract_port">
+		<DefaultValue>no</DefaultValue>
+		<Value>yes</Value>
+	</Param>
+	<Param name="-use_inferred_clocks">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-use_inferred_resets">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+	<Param name="-user_group_str">
+		<DefaultValue>UNDEFINED</DefaultValue>
+		<Value>UNDEFINED</Value>
+	</Param>
+	<Param name="-valid_enable_type">
+		<DefaultValue>qual</DefaultValue>
+		<Value>qual</Value>
+	</Param>
+	<Param name="-validate_qual_enable">
+		<DefaultValue>none</DefaultValue>
+		<Value>none</Value>
+	</Param>
+	<Param name="-write_sdc">
+		<DefaultValue>no</DefaultValue>
+		<Value>no</Value>
+	</Param>
+</Parameters>
+<RULES>
+	<Rule name="Clock_exit01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ac_report01">
+		<Time>0</Time>
+		<Memory>2392</Memory>
+		<Count>1</Count>
+	</Rule>
+	<Rule name="DataAsReset_setup04">
+		<Time>0</Time>
+		<Memory>520</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="DataAsReset_setup03">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="DataAsReset_setup02">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="DataAsReset_setup01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Propagate_DataAsReset">
+		<Time>0</Time>
+		<Memory>8</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ac_setOvlDataInSynthesis">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ac_svasetup01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_abstract_module07">
+		<Time>0</Time>
+		<Memory>2680</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_abstract_module06">
+		<Time>0</Time>
+		<Memory>8</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_abstract_module05">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_abstract_module04">
+		<Time>0</Time>
+		<Memory>-8</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_abstract_module02">
+		<Time>0</Time>
+		<Memory>-8</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_abstract_module01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_reset_synchronizer10">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_reset_synchronizer08">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_reset_synchronizer07">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_reset_synchronizer06">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_reset_synchronizer05">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_reset_synchronizer04">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_reset_synchronizer03">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_reset_synchronizer02">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_reset_synchronizer01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Setup_check02">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Setup_check01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ac_license01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ar_auxi01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Clock_glitch05">
+		<RULE_PARAM name="-allow_combo_logic" value="yes"/>
+		<RULE_PARAM name="-cdc_reduce_pessimism" value="mbit_macro,no_convergence_at_syncreset,no_convergence_at_enable,use_multi_arc,clock_crossing,no_unate_reconv,clock_on_ports,ignore_multi_domain"/>
+		<RULE_PARAM name="-check_multiclock_bbox" value="yes"/>
+		<RULE_PARAM name="-clock_reduce_pessimism" value="latch_en,mux_sel_derived,check_enable_for_glitch,ignore_same_domain"/>
+		<RULE_PARAM name="-distributed_fifo" value="yes"/>
+		<RULE_PARAM name="-enable_and_sync" value="yes"/>
+		<RULE_PARAM name="-enable_debug_data" value="yes"/>
+		<RULE_PARAM name="-enable_mux_sync" value="all"/>
+		<RULE_PARAM name="-handle_combo_arc" value="yes"/>
+		<RULE_PARAM name="-strict_sync_check" value="yes"/>
+		<RULE_PARAM name="-use_inferred_abstract_port" value="yes"/>
+		<Time>0</Time>
+		<Memory>16</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Clock_glitch05_init">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ac_psetup01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ac_psync_init">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ac_upfsetup01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ac_upfsetup02">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="LPwrRulesSetup">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="UPF_lowpower08">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="UPF_lowpower08PR">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="LP_POWERDATA_INFO">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="LP_POWERDATA_READ">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="LP_POWERDATA_CHECK">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_reset_filter_path_validation_Init">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Param_SCAValidation">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_multiple_virtual_clock01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ac_resetvalue01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="AllowComboLogicSetup">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ac_clockperiod03">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ac_clockperiod02">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ac_clockperiod01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ac_glitch03">
+		<RULE_PARAM name="-allow_combo_logic" value="yes"/>
+		<RULE_PARAM name="-cdc_reduce_pessimism" value="mbit_macro,no_convergence_at_syncreset,no_convergence_at_enable,use_multi_arc,clock_crossing,no_unate_reconv,clock_on_ports,ignore_multi_domain"/>
+		<RULE_PARAM name="-check_multiclock_bbox" value="yes"/>
+		<RULE_PARAM name="-clock_reduce_pessimism" value="latch_en,mux_sel_derived,check_enable_for_glitch,ignore_same_domain"/>
+		<RULE_PARAM name="-distributed_fifo" value="yes"/>
+		<RULE_PARAM name="-enable_and_sync" value="yes"/>
+		<RULE_PARAM name="-enable_debug_data" value="yes"/>
+		<RULE_PARAM name="-enable_mux_sync" value="all"/>
+		<RULE_PARAM name="-fa_msgmode" value="all"/>
+		<RULE_PARAM name="-fa_vcdfulltrace" value="allnets"/>
+		<RULE_PARAM name="-handle_combo_arc" value="yes"/>
+		<RULE_PARAM name="-reset_reduce_pessimism" value="same_data_reset_flop,remove_overlap"/>
+		<RULE_PARAM name="-strict_sync_check" value="yes"/>
+		<RULE_PARAM name="-use_inferred_abstract_port" value="yes"/>
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ac_abs01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="AcOvlRtl">
+		<Time>0</Time>
+		<Memory>-32</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="AcOvlRtl">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="_meta_delay01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="_vhMeta01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_meta_monitor_attributes01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_meta_design_hier01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ac_datahold01a">
+		<RULE_PARAM name="-allow_combo_logic" value="yes"/>
+		<RULE_PARAM name="-allow_merged_qualifier" value="strict"/>
+		<RULE_PARAM name="-cdc_reduce_pessimism" value="mbit_macro,no_convergence_at_syncreset,no_convergence_at_enable,use_multi_arc,clock_crossing,no_unate_reconv,clock_on_ports,ignore_multi_domain"/>
+		<RULE_PARAM name="-check_multiclock_bbox" value="yes"/>
+		<RULE_PARAM name="-clock_reduce_pessimism" value="latch_en,mux_sel_derived,check_enable_for_glitch,ignore_same_domain"/>
+		<RULE_PARAM name="-distributed_fifo" value="yes"/>
+		<RULE_PARAM name="-enable_and_sync" value="yes"/>
+		<RULE_PARAM name="-enable_debug_data" value="yes"/>
+		<RULE_PARAM name="-enable_mux_sync" value="all"/>
+		<RULE_PARAM name="-fa_msgmode" value="all"/>
+		<RULE_PARAM name="-fa_vcdfulltrace" value="allnets"/>
+		<RULE_PARAM name="-handle_combo_arc" value="yes"/>
+		<RULE_PARAM name="-reset_reduce_pessimism" value="same_data_reset_flop,remove_overlap"/>
+		<RULE_PARAM name="-strict_sync_check" value="yes"/>
+		<RULE_PARAM name="-use_inferred_abstract_port" value="yes"/>
+		<Time>10</Time>
+		<Memory>-360</Memory>
+		<Count>1</Count>
+	</Rule>
+	<Rule name="Ac_cdc01a">
+		<RULE_PARAM name="-allow_combo_logic" value="yes"/>
+		<RULE_PARAM name="-cdc_reduce_pessimism" value="mbit_macro,no_convergence_at_syncreset,no_convergence_at_enable,use_multi_arc,clock_crossing,no_unate_reconv,clock_on_ports,ignore_multi_domain"/>
+		<RULE_PARAM name="-check_multiclock_bbox" value="yes"/>
+		<RULE_PARAM name="-clock_reduce_pessimism" value="latch_en,mux_sel_derived,check_enable_for_glitch,ignore_same_domain"/>
+		<RULE_PARAM name="-enable_and_sync" value="yes"/>
+		<RULE_PARAM name="-enable_debug_data" value="yes"/>
+		<RULE_PARAM name="-enable_mux_sync" value="all"/>
+		<RULE_PARAM name="-fa_msgmode" value="all"/>
+		<RULE_PARAM name="-fa_vcdfulltrace" value="allnets"/>
+		<RULE_PARAM name="-handle_combo_arc" value="yes"/>
+		<RULE_PARAM name="-reset_reduce_pessimism" value="same_data_reset_flop,remove_overlap"/>
+		<RULE_PARAM name="-strict_sync_check" value="yes"/>
+		<RULE_PARAM name="-use_inferred_abstract_port" value="yes"/>
+		<Time>4</Time>
+		<Memory>0</Memory>
+		<Count>1</Count>
+	</Rule>
+	<Rule name="Ac_conv04">
+		<RULE_PARAM name="-allow_combo_logic" value="yes"/>
+		<RULE_PARAM name="-cdc_reduce_pessimism" value="mbit_macro,no_convergence_at_syncreset,no_convergence_at_enable,use_multi_arc,clock_crossing,no_unate_reconv,clock_on_ports,ignore_multi_domain"/>
+		<RULE_PARAM name="-check_multiclock_bbox" value="yes"/>
+		<RULE_PARAM name="-clock_reduce_pessimism" value="latch_en,mux_sel_derived,check_enable_for_glitch,ignore_same_domain"/>
+		<RULE_PARAM name="-enable_and_sync" value="yes"/>
+		<RULE_PARAM name="-enable_debug_data" value="yes"/>
+		<RULE_PARAM name="-enable_mux_sync" value="all"/>
+		<RULE_PARAM name="-fa_msgmode" value="all"/>
+		<RULE_PARAM name="-fa_vcdfulltrace" value="allnets"/>
+		<RULE_PARAM name="-handle_combo_arc" value="yes"/>
+		<RULE_PARAM name="-reset_reduce_pessimism" value="same_data_reset_flop,remove_overlap"/>
+		<RULE_PARAM name="-strict_sync_check" value="yes"/>
+		<RULE_PARAM name="-use_inferred_abstract_port" value="yes"/>
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ac_conv03a">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ac_conv02a">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ac_conv01a">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ac_conv02setup01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="CdcAttributeSetup">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ac_conv03">
+		<RULE_PARAM name="-allow_combo_logic" value="yes"/>
+		<RULE_PARAM name="-cdc_reduce_pessimism" value="mbit_macro,no_convergence_at_syncreset,no_convergence_at_enable,use_multi_arc,clock_crossing,no_unate_reconv,clock_on_ports,ignore_multi_domain"/>
+		<RULE_PARAM name="-check_multiclock_bbox" value="yes"/>
+		<RULE_PARAM name="-clock_reduce_pessimism" value="latch_en,mux_sel_derived,check_enable_for_glitch,ignore_same_domain"/>
+		<RULE_PARAM name="-distributed_fifo" value="yes"/>
+		<RULE_PARAM name="-enable_and_sync" value="yes"/>
+		<RULE_PARAM name="-enable_debug_data" value="yes"/>
+		<RULE_PARAM name="-enable_mux_sync" value="all"/>
+		<RULE_PARAM name="-handle_combo_arc" value="yes"/>
+		<RULE_PARAM name="-strict_sync_check" value="yes"/>
+		<RULE_PARAM name="-use_inferred_abstract_port" value="yes"/>
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ac_conv01">
+		<RULE_PARAM name="-allow_combo_logic" value="yes"/>
+		<RULE_PARAM name="-cdc_reduce_pessimism" value="mbit_macro,no_convergence_at_syncreset,no_convergence_at_enable,use_multi_arc,clock_crossing,no_unate_reconv,clock_on_ports,ignore_multi_domain"/>
+		<RULE_PARAM name="-check_multiclock_bbox" value="yes"/>
+		<RULE_PARAM name="-clock_reduce_pessimism" value="latch_en,mux_sel_derived,check_enable_for_glitch,ignore_same_domain"/>
+		<RULE_PARAM name="-conv_sync_seq_depth" value="1"/>
+		<RULE_PARAM name="-conv_sync_seq_depth_opt" value="yes"/>
+		<RULE_PARAM name="-distributed_fifo" value="yes"/>
+		<RULE_PARAM name="-enable_and_sync" value="yes"/>
+		<RULE_PARAM name="-enable_debug_data" value="yes"/>
+		<RULE_PARAM name="-enable_mux_sync" value="all"/>
+		<RULE_PARAM name="-handle_combo_arc" value="yes"/>
+		<RULE_PARAM name="-strict_sync_check" value="yes"/>
+		<RULE_PARAM name="-use_inferred_abstract_port" value="yes"/>
+		<Time>0</Time>
+		<Memory>2680</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ac_conv02">
+		<RULE_PARAM name="-allow_combo_logic" value="yes"/>
+		<RULE_PARAM name="-cdc_reduce_pessimism" value="mbit_macro,no_convergence_at_syncreset,no_convergence_at_enable,use_multi_arc,clock_crossing,no_unate_reconv,clock_on_ports,ignore_multi_domain"/>
+		<RULE_PARAM name="-check_multiclock_bbox" value="yes"/>
+		<RULE_PARAM name="-clock_reduce_pessimism" value="latch_en,mux_sel_derived,check_enable_for_glitch,ignore_same_domain"/>
+		<RULE_PARAM name="-enable_and_sync" value="yes"/>
+		<RULE_PARAM name="-enable_debug_data" value="yes"/>
+		<RULE_PARAM name="-enable_mux_sync" value="all"/>
+		<RULE_PARAM name="-fa_msgmode" value="all"/>
+		<RULE_PARAM name="-fa_vcdfulltrace" value="allnets"/>
+		<RULE_PARAM name="-handle_combo_arc" value="yes"/>
+		<RULE_PARAM name="-reset_reduce_pessimism" value="same_data_reset_flop,remove_overlap"/>
+		<RULE_PARAM name="-strict_sync_check" value="yes"/>
+		<RULE_PARAM name="-use_inferred_abstract_port" value="yes"/>
+		<Time>11</Time>
+		<Memory>-2592</Memory>
+		<Count>2</Count>
+	</Rule>
+	<Rule name="Ac_initstate01">
+		<Time>0</Time>
+		<Memory>32</Memory>
+		<Count>1</Count>
+	</Rule>
+	<Rule name="_glitch_init">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_cdc_glitch_end_point">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_cdc_define_transition01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ac_sanity07">
+		<Time>0</Time>
+		<Memory>16</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ac_sanity06">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ac_sanity05">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ac_sanity05">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ac_sanity02">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ac_sanity01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="_ac_Auxi01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ac_init01">
+		<Time>0</Time>
+		<Memory>32</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ac_multitop01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ac_initseq01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_noclockcell_start01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ar_converge01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Clock_converge01">
+		<RULE_PARAM name="-cdc_reduce_pessimism" value="mbit_macro,no_convergence_at_syncreset,no_convergence_at_enable,use_multi_arc,clock_crossing,no_unate_reconv,clock_on_ports,ignore_multi_domain"/>
+		<RULE_PARAM name="-clock_reduce_pessimism" value="latch_en,mux_sel_derived,check_enable_for_glitch,ignore_same_domain"/>
+		<RULE_PARAM name="-enable_debug_data" value="yes"/>
+		<RULE_PARAM name="-handle_combo_arc" value="yes"/>
+		<RULE_PARAM name="-use_inferred_abstract_port" value="yes"/>
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="DeltaDelaySetup01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="_deltaDelayNom">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="_deltaDelay">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="_deltaDelay">
+		<Time>0</Time>
+		<Memory>8</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Reset_check08">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_repeater01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Clock_check10">
+		<RULE_PARAM name="-enable_debug_data" value="yes"/>
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Clock_check07">
+		<RULE_PARAM name="-handle_combo_arc" value="yes"/>
+		<RULE_PARAM name="-use_inferred_abstract_port" value="yes"/>
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Setup_clockreset01">
+		<RULE_PARAM name="-handle_combo_arc" value="yes"/>
+		<RULE_PARAM name="-use_inferred_abstract_port" value="yes"/>
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Param_clockreset08">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Param_clockreset06">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Param_clockreset05">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Param_clockreset04">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Param_clockreset02">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_clockreset02">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_clockreset03">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Reset_sync02">
+		<RULE_PARAM name="-enable_debug_data" value="yes"/>
+		<RULE_PARAM name="-handle_combo_arc" value="yes"/>
+		<RULE_PARAM name="-use_inferred_abstract_port" value="yes"/>
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ar_syncrstrtl01">
+		<RULE_PARAM name="-enable_debug_data" value="yes"/>
+		<RULE_PARAM name="-use_inferred_abstract_port" value="yes"/>
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ar_syncrstpragma01">
+		<RULE_PARAM name="-enable_debug_data" value="yes"/>
+		<RULE_PARAM name="-use_inferred_abstract_port" value="yes"/>
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ar_syncrstactive01">
+		<RULE_PARAM name="-enable_debug_data" value="yes"/>
+		<RULE_PARAM name="-use_inferred_abstract_port" value="yes"/>
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ar_syncrstcombo01">
+		<RULE_PARAM name="-enable_debug_data" value="yes"/>
+		<RULE_PARAM name="-use_inferred_abstract_port" value="yes"/>
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ar_syncrstload02">
+		<RULE_PARAM name="-enable_debug_data" value="yes"/>
+		<RULE_PARAM name="-use_inferred_abstract_port" value="yes"/>
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ar_syncrstload01">
+		<RULE_PARAM name="-enable_debug_data" value="yes"/>
+		<RULE_PARAM name="-use_inferred_abstract_port" value="yes"/>
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="_syncResetStyleRTL">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Clock_info15">
+		<RULE_PARAM name="-allow_combo_logic" value="yes"/>
+		<RULE_PARAM name="-enable_debug_data" value="yes"/>
+		<RULE_PARAM name="-handle_combo_arc" value="yes"/>
+		<RULE_PARAM name="-strict_sync_check" value="yes"/>
+		<RULE_PARAM name="-use_inferred_abstract_port" value="yes"/>
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>1</Count>
+	</Rule>
+	<Rule name="_constrCoverage">
+		<Time>0</Time>
+		<Memory>16</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ar_sync_init">
+		<Time>0</Time>
+		<Memory>2696</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ar_syncdeassert01">
+		<RULE_PARAM name="-enable_debug_data" value="yes"/>
+		<RULE_PARAM name="-handle_combo_arc" value="yes"/>
+		<RULE_PARAM name="-reset_reduce_pessimism" value="same_data_reset_flop,remove_overlap"/>
+		<RULE_PARAM name="-use_inferred_abstract_port" value="yes"/>
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>2</Count>
+	</Rule>
+	<Rule name="Ar_asyncdeassert01">
+		<RULE_PARAM name="-enable_debug_data" value="yes"/>
+		<RULE_PARAM name="-handle_combo_arc" value="yes"/>
+		<RULE_PARAM name="-reset_reduce_pessimism" value="same_data_reset_flop,remove_overlap"/>
+		<RULE_PARAM name="-use_inferred_abstract_port" value="yes"/>
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ar_sync01">
+		<RULE_PARAM name="-enable_debug_data" value="yes"/>
+		<RULE_PARAM name="-handle_combo_arc" value="yes"/>
+		<RULE_PARAM name="-reset_reduce_pessimism" value="same_data_reset_flop,remove_overlap"/>
+		<RULE_PARAM name="-use_inferred_abstract_port" value="yes"/>
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>2</Count>
+	</Rule>
+	<Rule name="Ar_unsync01">
+		<RULE_PARAM name="-enable_debug_data" value="yes"/>
+		<RULE_PARAM name="-handle_combo_arc" value="yes"/>
+		<RULE_PARAM name="-reset_reduce_pessimism" value="same_data_reset_flop,remove_overlap"/>
+		<RULE_PARAM name="-use_inferred_abstract_port" value="yes"/>
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Reset_sync04">
+		<RULE_PARAM name="-enable_debug_data" value="yes"/>
+		<RULE_PARAM name="-handle_combo_arc" value="yes"/>
+		<RULE_PARAM name="-reset_reduce_pessimism" value="same_data_reset_flop,remove_overlap"/>
+		<RULE_PARAM name="-use_inferred_abstract_port" value="yes"/>
+		<Time>0</Time>
+		<Memory>16</Memory>
+		<Count>1</Count>
+	</Rule>
+	<Rule name="_clock_hier_rules">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_clock_path_wrapper_module01">
+		<Time>0</Time>
+		<Memory>16</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="_clkWrapModules">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Reset_check03">
+		<RULE_PARAM name="-enable_debug_data" value="yes"/>
+		<RULE_PARAM name="-reset_reduce_pessimism" value="same_data_reset_flop,remove_overlap"/>
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_filter_clock_overlap02">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_filter_clock_overlap01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="FilterClockOverlapSetup">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Clock_glitch_init">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Clock_info05c">
+		<RULE_PARAM name="-enable_debug_data" value="yes"/>
+		<RULE_PARAM name="-handle_combo_arc" value="yes"/>
+		<RULE_PARAM name="-use_inferred_abstract_port" value="yes"/>
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Clock_info05b">
+		<RULE_PARAM name="-enable_debug_data" value="yes"/>
+		<RULE_PARAM name="-handle_combo_arc" value="yes"/>
+		<RULE_PARAM name="-use_inferred_abstract_port" value="yes"/>
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Clock_info05">
+		<RULE_PARAM name="-cdc_reduce_pessimism" value="mbit_macro,no_convergence_at_syncreset,no_convergence_at_enable,use_multi_arc,clock_crossing,no_unate_reconv,clock_on_ports,ignore_multi_domain"/>
+		<RULE_PARAM name="-clock_reduce_pessimism" value="latch_en,mux_sel_derived,check_enable_for_glitch,ignore_same_domain"/>
+		<RULE_PARAM name="-enable_debug_data" value="yes"/>
+		<RULE_PARAM name="-handle_combo_arc" value="yes"/>
+		<RULE_PARAM name="-use_inferred_abstract_port" value="yes"/>
+		<Time>0</Time>
+		<Memory>16</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Clock_sync06a">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Clock_sync05a">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Clock_sync06">
+		<RULE_PARAM name="-enable_debug_data" value="yes"/>
+		<RULE_PARAM name="-handle_combo_arc" value="yes"/>
+		<RULE_PARAM name="-use_inferred_abstract_port" value="yes"/>
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Clock_sync05">
+		<RULE_PARAM name="-enable_debug_data" value="yes"/>
+		<RULE_PARAM name="-handle_combo_arc" value="yes"/>
+		<RULE_PARAM name="-use_inferred_abstract_port" value="yes"/>
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ac_classify_param01">
+		<Time>0</Time>
+		<Memory>-2672</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Reset_check12">
+		<Time>0</Time>
+		<Memory>-2680</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Reset_info09a">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Reset_check11">
+		<RULE_PARAM name="-enable_debug_data" value="yes"/>
+		<RULE_PARAM name="-reset_reduce_pessimism" value="same_data_reset_flop,remove_overlap"/>
+		<Time>0</Time>
+		<Memory>8</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Setup_library01">
+		<RULE_PARAM name="-cdc_reduce_pessimism" value="mbit_macro,no_convergence_at_syncreset,no_convergence_at_enable,use_multi_arc,clock_crossing,no_unate_reconv,clock_on_ports,ignore_multi_domain"/>
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Setup_blackbox01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Setup_port01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>2</Count>
+	</Rule>
+	<Rule name="_reset_sync">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Propagate_Resets">
+		<RULE_PARAM name="-reset_reduce_pessimism" value="same_data_reset_flop,remove_overlap"/>
+		<Time>0</Time>
+		<Memory>32</Memory>
+		<Count>2</Count>
+	</Rule>
+	<Rule name="Reset_info01">
+		<RULE_PARAM name="-enable_debug_data" value="yes"/>
+		<RULE_PARAM name="-reset_reduce_pessimism" value="same_data_reset_flop,remove_overlap"/>
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>2</Count>
+	</Rule>
+	<Rule name="Ac_crossing01">
+		<RULE_PARAM name="-allow_combo_logic" value="yes"/>
+		<RULE_PARAM name="-cdc_reduce_pessimism" value="mbit_macro,no_convergence_at_syncreset,no_convergence_at_enable,use_multi_arc,clock_crossing,no_unate_reconv,clock_on_ports,ignore_multi_domain"/>
+		<RULE_PARAM name="-check_multiclock_bbox" value="yes"/>
+		<RULE_PARAM name="-clock_reduce_pessimism" value="latch_en,mux_sel_derived,check_enable_for_glitch,ignore_same_domain"/>
+		<RULE_PARAM name="-distributed_fifo" value="yes"/>
+		<RULE_PARAM name="-enable_and_sync" value="yes"/>
+		<RULE_PARAM name="-enable_debug_data" value="yes"/>
+		<RULE_PARAM name="-enable_mux_sync" value="all"/>
+		<RULE_PARAM name="-handle_combo_arc" value="yes"/>
+		<RULE_PARAM name="-strict_sync_check" value="yes"/>
+		<RULE_PARAM name="-use_inferred_abstract_port" value="yes"/>
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>1</Count>
+	</Rule>
+	<Rule name="Ac_sync02">
+		<RULE_PARAM name="-allow_combo_logic" value="yes"/>
+		<RULE_PARAM name="-allow_merged_qualifier" value="strict"/>
+		<RULE_PARAM name="-cdc_reduce_pessimism" value="mbit_macro,no_convergence_at_syncreset,no_convergence_at_enable,use_multi_arc,clock_crossing,no_unate_reconv,clock_on_ports,ignore_multi_domain"/>
+		<RULE_PARAM name="-check_multiclock_bbox" value="yes"/>
+		<RULE_PARAM name="-clock_reduce_pessimism" value="latch_en,mux_sel_derived,check_enable_for_glitch,ignore_same_domain"/>
+		<RULE_PARAM name="-distributed_fifo" value="yes"/>
+		<RULE_PARAM name="-enable_and_sync" value="yes"/>
+		<RULE_PARAM name="-enable_debug_data" value="yes"/>
+		<RULE_PARAM name="-enable_mux_sync" value="all"/>
+		<RULE_PARAM name="-handle_combo_arc" value="yes"/>
+		<RULE_PARAM name="-strict_sync_check" value="yes"/>
+		<RULE_PARAM name="-use_inferred_abstract_port" value="yes"/>
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>3</Count>
+	</Rule>
+	<Rule name="Ac_sync01">
+		<RULE_PARAM name="-allow_combo_logic" value="yes"/>
+		<RULE_PARAM name="-allow_merged_qualifier" value="strict"/>
+		<RULE_PARAM name="-cdc_reduce_pessimism" value="mbit_macro,no_convergence_at_syncreset,no_convergence_at_enable,use_multi_arc,clock_crossing,no_unate_reconv,clock_on_ports,ignore_multi_domain"/>
+		<RULE_PARAM name="-check_multiclock_bbox" value="yes"/>
+		<RULE_PARAM name="-clock_reduce_pessimism" value="latch_en,mux_sel_derived,check_enable_for_glitch,ignore_same_domain"/>
+		<RULE_PARAM name="-distributed_fifo" value="yes"/>
+		<RULE_PARAM name="-enable_and_sync" value="yes"/>
+		<RULE_PARAM name="-enable_debug_data" value="yes"/>
+		<RULE_PARAM name="-enable_mux_sync" value="all"/>
+		<RULE_PARAM name="-handle_combo_arc" value="yes"/>
+		<RULE_PARAM name="-strict_sync_check" value="yes"/>
+		<RULE_PARAM name="-use_inferred_abstract_port" value="yes"/>
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ac_unsync02">
+		<RULE_PARAM name="-allow_combo_logic" value="yes"/>
+		<RULE_PARAM name="-allow_merged_qualifier" value="strict"/>
+		<RULE_PARAM name="-cdc_reduce_pessimism" value="mbit_macro,no_convergence_at_syncreset,no_convergence_at_enable,use_multi_arc,clock_crossing,no_unate_reconv,clock_on_ports,ignore_multi_domain"/>
+		<RULE_PARAM name="-check_multiclock_bbox" value="yes"/>
+		<RULE_PARAM name="-clock_reduce_pessimism" value="latch_en,mux_sel_derived,check_enable_for_glitch,ignore_same_domain"/>
+		<RULE_PARAM name="-distributed_fifo" value="yes"/>
+		<RULE_PARAM name="-enable_and_sync" value="yes"/>
+		<RULE_PARAM name="-enable_debug_data" value="yes"/>
+		<RULE_PARAM name="-enable_mux_sync" value="all"/>
+		<RULE_PARAM name="-handle_combo_arc" value="yes"/>
+		<RULE_PARAM name="-strict_sync_check" value="yes"/>
+		<RULE_PARAM name="-use_inferred_abstract_port" value="yes"/>
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ac_unsync01">
+		<RULE_PARAM name="-allow_combo_logic" value="yes"/>
+		<RULE_PARAM name="-allow_merged_qualifier" value="strict"/>
+		<RULE_PARAM name="-cdc_reduce_pessimism" value="mbit_macro,no_convergence_at_syncreset,no_convergence_at_enable,use_multi_arc,clock_crossing,no_unate_reconv,clock_on_ports,ignore_multi_domain"/>
+		<RULE_PARAM name="-check_multiclock_bbox" value="yes"/>
+		<RULE_PARAM name="-clock_reduce_pessimism" value="latch_en,mux_sel_derived,check_enable_for_glitch,ignore_same_domain"/>
+		<RULE_PARAM name="-distributed_fifo" value="yes"/>
+		<RULE_PARAM name="-enable_and_sync" value="yes"/>
+		<RULE_PARAM name="-enable_debug_data" value="yes"/>
+		<RULE_PARAM name="-enable_mux_sync" value="all"/>
+		<RULE_PARAM name="-handle_combo_arc" value="yes"/>
+		<RULE_PARAM name="-strict_sync_check" value="yes"/>
+		<RULE_PARAM name="-use_inferred_abstract_port" value="yes"/>
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ac_coherency06">
+		<RULE_PARAM name="-allow_combo_logic" value="yes"/>
+		<RULE_PARAM name="-cdc_reduce_pessimism" value="mbit_macro,no_convergence_at_syncreset,no_convergence_at_enable,use_multi_arc,clock_crossing,no_unate_reconv,clock_on_ports,ignore_multi_domain"/>
+		<RULE_PARAM name="-check_multiclock_bbox" value="yes"/>
+		<RULE_PARAM name="-clock_reduce_pessimism" value="latch_en,mux_sel_derived,check_enable_for_glitch,ignore_same_domain"/>
+		<RULE_PARAM name="-distributed_fifo" value="yes"/>
+		<RULE_PARAM name="-enable_and_sync" value="yes"/>
+		<RULE_PARAM name="-enable_debug_data" value="yes"/>
+		<RULE_PARAM name="-enable_mux_sync" value="all"/>
+		<RULE_PARAM name="-handle_combo_arc" value="yes"/>
+		<RULE_PARAM name="-strict_sync_check" value="yes"/>
+		<RULE_PARAM name="-use_inferred_abstract_port" value="yes"/>
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ar_Cross_Init">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="_resetDeassertStable">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Clockmatrix01_Init">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ac_Sync_Init">
+		<Time>0</Time>
+		<Memory>2984</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="_auto_dom_abstraction">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="_debugData">
+		<Time>0</Time>
+		<Memory>-2568</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Clock_info03c">
+		<RULE_PARAM name="-enable_debug_data" value="yes"/>
+		<RULE_PARAM name="-handle_combo_arc" value="yes"/>
+		<RULE_PARAM name="-use_inferred_abstract_port" value="yes"/>
+		<Time>0</Time>
+		<Memory>2656</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Clock_info03b">
+		<RULE_PARAM name="-enable_debug_data" value="yes"/>
+		<Time>0</Time>
+		<Memory>-8</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Clock_info03a">
+		<RULE_PARAM name="-enable_debug_data" value="yes"/>
+		<RULE_PARAM name="-handle_combo_arc" value="yes"/>
+		<RULE_PARAM name="-use_inferred_abstract_port" value="yes"/>
+		<Time>0</Time>
+		<Memory>32</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="CDCSet_License01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_fifo14">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_fifo13">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_fifo12">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_fifo11">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="_sync_qualifier">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="_synci">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="_sync_and">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="_sync_gp">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="_sync_clock">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="_syncg">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="_syncd">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="_syncdw">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="_syncUDfifo">
+		<Time>0</Time>
+		<Memory>24</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="_syncfifo">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="_fifo01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="FalsePathSetupFieldIgnored">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="FalsePathSetup">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="_resetPathCross">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="_syncb">
+		<Time>0</Time>
+		<Memory>8</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="_syncc">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_cdc_false_path11">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_cdc_false_path10">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_cdc_false_path09">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_cdc_false_path08">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_cdc_false_path07">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_cdc_false_path06">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_cdc_false_path05">
+		<Time>0</Time>
+		<Memory>8</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_virtualclock03">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_virtualclock_validation01">
+		<Time>0</Time>
+		<Memory>16</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Propagate_Clocks">
+		<RULE_PARAM name="-clock_reduce_pessimism" value="latch_en,mux_sel_derived,check_enable_for_glitch,ignore_same_domain"/>
+		<RULE_PARAM name="-handle_combo_arc" value="yes"/>
+		<RULE_PARAM name="-use_inferred_abstract_port" value="yes"/>
+		<Time>0</Time>
+		<Memory>24</Memory>
+		<Count>2</Count>
+	</Rule>
+	<Rule name="_syncreset_prop">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="_sync_sanity">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_clock_sanity01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_generated_clock06">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Reset_prop">
+		<Time>0</Time>
+		<Memory>816</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Clock_prop">
+		<Time>0</Time>
+		<Memory>32</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ar_syncrst_setupcheck01">
+		<RULE_PARAM name="-enable_debug_data" value="yes"/>
+		<Time>0</Time>
+		<Memory>16</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Clock_info01">
+		<RULE_PARAM name="-enable_debug_data" value="yes"/>
+		<Time>0</Time>
+		<Memory>-2616</Memory>
+		<Count>2</Count>
+	</Rule>
+	<Rule name="Pragma_setupb">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Pragma_setupa">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="_propagate_cdcAttrib">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Clock_setup02">
+		<Time>0</Time>
+		<Memory>1560</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="_abstract_port">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Clock_setup01">
+		<Time>0</Time>
+		<Memory>32</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Param_clockreset07">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_glitchfree_cell01">
+		<Time>0</Time>
+		<Memory>-8</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_define_reset_order06">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_define_reset_order05">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_define_reset_order04">
+		<Time>0</Time>
+		<Memory>8</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_define_reset_order03">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_define_reset_order02">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_reset_filter_path09a">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_reset_filter_path08b">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_reset_filter_path08a">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_reset_filter_path07c">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_reset_filter_path07b">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_reset_filter_path07a">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_reset_filter_path06a">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_reset_filter_path05a">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_reset_filter_path04b">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_reset_filter_path04a">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_reset_filter_path03c">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_reset_filter_path03b">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_reset_filter_path03a">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_reset_filter_path02c">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_reset_filter_path02b">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_reset_filter_path02a">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_reset_filter_path01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_quasi_static_rdc05">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_quasi_static_rdc04">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_quasi_static_rdc03">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_quasi_static_rdc02">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="QuasiStaticRdcSetup">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_quasi_static_rdc01c">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_quasi_static_rdc01b">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_quasi_static_rdc01a">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="RFPSetup">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="_repeaterCellInst">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="_syncCellDelayedQualifier">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="_rstSyncCellInst">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="_ipblock">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="_allowInst">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="_portReten">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="_portRetenClocknReset">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Ac_qualifier_depth">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_abstract_port28">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_abstract_port25b">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_abstract_port25a">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_abstract_port24">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_abstract_port23">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_abstract_port25">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_abstract_port20">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_abstract_port19">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_virtualreset01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_virtualclock02">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_virtualclock01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_allow_combo_logic02">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_allow_combo_logic01">
+		<Time>0</Time>
+		<Memory>-8</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_qualifier31">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_qualifier30">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_qualifier29">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_qualifier28">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_qualifier27">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_qualifier26">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_qualifier25">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_qualifier24">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_qualifier34">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_qualifier23">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_qualifier22">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_qualifier21">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_qualifier20b">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_qualifier20a">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_qualifier19c">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_qualifier19b">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_qualifier19a">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_qualifier18">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_qualifier17">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_qualifier16">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_qualifier15">
+		<Time>0</Time>
+		<Memory>-8</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_qualifier14">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_qualifier13">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_qualifier12">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_qualifier11">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_qualifier10">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_qualifier09">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_validation_filter_path03">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_validation_filter_path02">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_validation_filter_path01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_cdc_waive07">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_cdc_waive06">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_cdc_waive05">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_cdc_waive04">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_cdc_waive03">
+		<Time>0</Time>
+		<Memory>-8</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_cdc_waive02">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_cdc_waive01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SignalTypeSetup">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="ResetSynchronizerSetup">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_same_domain_signals01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="QualifierSetup">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_qualifier35">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_qualifier33d">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_qualifier33c">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_qualifier33a">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_qualifier32d">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_qualifier32c">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_qualifier32a">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_qualifier08">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_qualifier07">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_qualifier06">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_qualifier05">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_qualifier04">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_qualifier03d">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_qualifier03c">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_qualifier03a">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_qualifier02c">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_qualifier02a">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_qualifier01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_glitch_free_mux_cell01">
+		<Time>0</Time>
+		<Memory>-8</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_sync_cell12">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_sync_cell11">
+		<Time>0</Time>
+		<Memory>-8</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SyncCellSetup">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_sync_cell11a">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_sync_cell10">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_sync_cell09b">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_sync_cell09a">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_sync_cell08b">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_sync_cell08a">
+		<Time>0</Time>
+		<Memory>8</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_sync_cell07">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_sync_cell06">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_sync_cell05">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_sync_cell04">
+		<Time>0</Time>
+		<Memory>8</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_sync_cell03b">
+		<Time>0</Time>
+		<Memory>8</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_sync_cell03a">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_sync_cell02d">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_sync_cell02c">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_sync_cell02b">
+		<Time>0</Time>
+		<Memory>24</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_sync_cell02a">
+		<Time>0</Time>
+		<Memory>16</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_gray_signals03">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_gray_signals02">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_gray_signals01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="CheckClockRelationSetup">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_clock_relation06c">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_clock_relation06b">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_clock_relation06a">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_clock_relation05b">
+		<Time>0</Time>
+		<Memory>-8</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_clock_relation05a">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_clock_relation04b">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_clock_relation04a">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_clock_relation03b">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_clock_relation03a">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_clock_relation02c">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_clock_relation02b">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_clock_relation02a">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_clock_relation01c">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_clock_relation01b">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_clock_relation01a">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_sgclkgroup04">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_sgclkgroup03">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_sgclkgroup02">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_sgclkgroup01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_reset_prop01">
+		<Time>0</Time>
+		<Memory>8</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_reset_sense04">
+		<Time>0</Time>
+		<Memory>-8</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_reset_sense01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_clocksense04">
+		<Time>0</Time>
+		<Memory>8</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_clocksense03">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_clocksense02">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_clocksense01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_numflops16">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_numflops15">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_numflops14">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_numflops13">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_numflops12">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_numflops11">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_numflops10">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_numflops09">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_numflops08">
+		<Time>0</Time>
+		<Memory>16</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_numflops07">
+		<Time>0</Time>
+		<Memory>-8</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_numflops06">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_numflops05">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_numflops04">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_numflops03d">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_numflops03c">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_numflops03b">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_numflops03a">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_numflops01">
+		<Time>0</Time>
+		<Memory>8</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_porttimedelay01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_deltacheck_ignore_instance01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_deltacheck_ignore_module01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_deltacheck_stop_instance01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_deltacheck_stop_module01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_deltacheck_stop_signal01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_deltacheck_start02">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_deltacheck_start01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_noclockcell04">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_noclockcell03">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_noclockcell02">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_noclockcell01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_cdc_false_path03">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_cdc_false_path02">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_cdc_false_path01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="CheckBackToBackSyncCellSetup">
+		<Time>0</Time>
+		<Memory>8</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_check_back_to_back_sync_cell01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_output_not_used01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_network_allowed_cells02">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_network_allowed_cells01">
+		<Time>0</Time>
+		<Memory>8</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_syncresetstyle01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_signal_in_domain04">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_signal_in_domain03">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_signal_in_domain02">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_signal_in_domain01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_glitch_multi_src_unate_check02">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_glitch_multi_src_unate_check01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="Setup_quasi_static01">
+		<Time>0</Time>
+		<Memory>24</Memory>
+		<Count>1</Count>
+	</Rule>
+	<Rule name="SGDC_quasi_static_style02">
+		<Time>0</Time>
+		<Memory>8</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_quasi_static_style01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_quasi_static04">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_quasi_static03">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_quasi_static02">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_quasi_static01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_clock_relation01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_clock_ref_clock01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_generated_clock05">
+		<Time>0</Time>
+		<Memory>8</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_generated_clock04">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_generated_clock03">
+		<Time>0</Time>
+		<Memory>8</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_generated_clock02">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_generated_clock01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_output03">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_output04">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_output02">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_output01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_input04">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_input03">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_input02">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="SGDC_input01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="_cdc_save_license01">
+		<Time>0</Time>
+		<Memory>0</Memory>
+		<Count>0</Count>
+	</Rule>
+	<Rule name="ElabSummary">
+		<Time>0</Time>
+		<Memory>-2656</Memory>
+		<Count>1</Count>
+	</Rule>
+	<Rule name="DetectTopDesignUnits">
+		<Time>0</Time>
+		<Memory>1384</Memory>
+		<Count>1</Count>
+	</Rule>
+</RULES>
+<RUN_MODE>
+	<Restore>1</Restore>
+</RUN_MODE>
+<REPORTS>
+	<Report name="moresimple">
+		<value>./spyglass-1/cdc/cdc_verify/spyglass_reports/moresimple.rpt</value>
+	</Report>
+	<Report/>
+	<Report name="no_msg_reporting_rules">
+		<value>./spyglass-1/cdc/cdc_verify/spyglass_reports/no_msg_reporting_rules.rpt</value>
+	</Report>
+	<Report name="adv_cdc">
+		<value>./spyglass-1/cdc/cdc_verify/spyglass_reports/adv_cdc.rpt</value>
+	</Report>
+	<Report name="CDC-report">
+		<value>./spyglass-1/cdc/cdc_verify/spyglass_reports/CDC-report.rpt</value>
+	</Report>
+</REPORTS>
+<VIOL_SUMMARY>
+	<FATAL>0</FATAL>
+	<ERROR>0</ERROR>
+	<WARNING>2</WARNING>
+	<INFO>27</INFO>
+</VIOL_SUMMARY>
+<Exit_code>0</Exit_code>
+<Total_time>306</Total_time>

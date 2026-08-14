@@ -1,0 +1,5 @@
+INPUT@@/home/gokulgopalakrishnan/major_project/apb/async_fifo/spyglass-1/Design_Read/spyglass_reports@@/home/gokulgopalakrishnan/major_project/apb/async_fifo/spyglass-1/html_reports/data_files/@@async_fifo@@Design_Read@@
+COPY@@/home/gokulgopalakrishnan/major_project/apb/async_fifo/spyglass-1/Design_Read/spyglass_reports/moresimple.rpt@@data_files/async_fifo_Design_Read_moresimple.rpt@@
+COPY@@/home/gokulgopalakrishnan/major_project/apb/async_fifo/spyglass-1/Design_Read/spyglass_reports/no_msg_reporting_rules.rpt@@data_files/async_fifo_Design_Read_no_msg_reporting_rules.rpt@@
+PROCESS@@SpyGlass
+COPY@@/home/gokulgopalakrishnan/major_project/apb/async_fifo/spyglass-1/Design_Read/spyglass.log@@data_files/async_fifo_Design_Read_spyglass.log@@
