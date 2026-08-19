@@ -1,0 +1,22 @@
+SCHEMA@@PName@@Dir@@Msb@@Lsb@@Desc@@DU@@DU_BBOX
+VALUE@@sclk@@INPUT@@0@@0@@-@@top_cdc_fifo_integrated@@No
+VALUE@@psel@@INPUT@@0@@0@@-@@top_cdc_fifo_integrated@@No
+VALUE@@penable@@INPUT@@0@@0@@-@@top_cdc_fifo_integrated@@No
+VALUE@@pclk@@INPUT@@0@@0@@-@@top_cdc_fifo_integrated@@No
+VALUE@@presetn@@INPUT@@0@@0@@-@@top_cdc_fifo_integrated@@No
+VALUE@@pwrite@@INPUT@@0@@0@@-@@top_cdc_fifo_integrated@@No
+VALUE@@paddr@@INPUT@@31@@0@@-@@top_cdc_fifo_integrated@@No
+VALUE@@pwdata@@INPUT@@31@@0@@-@@top_cdc_fifo_integrated@@No
+VALUE@@pready@@OUTPUT@@0@@0@@-@@top_cdc_fifo_integrated@@No
+VALUE@@pslverr@@OUTPUT@@0@@0@@-@@top_cdc_fifo_integrated@@No
+VALUE@@cmd_reg_sync@@OUTPUT@@7@@0@@---------------- APB / register ...@@top_cdc_fifo_integrated@@No
+VALUE@@len_reg_sync@@OUTPUT@@7@@0@@---------------- APB / register ...@@top_cdc_fifo_integrated@@No
+VALUE@@dummy_reg_sync@@OUTPUT@@4@@0@@-@@top_cdc_fifo_integrated@@No
+VALUE@@addr_reg_sync@@OUTPUT@@23@@0@@-@@top_cdc_fifo_integrated@@No
+VALUE@@start_toggle@@OUTPUT@@0@@0@@-@@top_cdc_fifo_integrated@@No
+VALUE@@start_out@@OUTPUT@@0@@0@@-@@top_cdc_fifo_integrated@@No
+VALUE@@busy_reg@@OUTPUT@@0@@0@@-@@top_cdc_fifo_integrated@@No
+VALUE@@read_output@@OUTPUT@@7@@0@@-@@top_cdc_fifo_integrated@@No
+VALUE@@rx_read_data@@OUTPUT@@7@@0@@---------------- TX path (unchan...@@top_cdc_fifo_integrated@@No
+VALUE@@qspi_busy_status@@OUTPUT@@0@@0@@-@@top_cdc_fifo_integrated@@No
+VALUE@@qspi_done_status@@OUTPUT@@0@@0@@-@@top_cdc_fifo_integrated@@No

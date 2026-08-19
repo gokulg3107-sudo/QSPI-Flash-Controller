@@ -1,0 +1,15 @@
+0 apb_slave.v
+    1 command_code.h
+2 async_fifo.v
+3 domain_crossing.v
+4 fifo_read_fsm.v
+    5 command_code.h
+6 fifo_write_fsm.v
+    7 command_code.h
+8 qspi_flash_controller.v
+    9 command_code.h
+10 qspi_status.v
+11 rx_fifo_read_logic.v
+    12 command_code.h
+13 rx_fifo_write_logic.v
+14 top_cdc_fifo_integrated.v

@@ -1,0 +1,22 @@
+Module Name,Module Type,Port Name,Direction,Width,Index,Comment Source,Comment 
+top_cdc_fifo_integrated,Top_Level,sclk,INPUT,1,-,-,-
+top_cdc_fifo_integrated,Top_Level,psel,INPUT,1,-,-,-
+top_cdc_fifo_integrated,Top_Level,penable,INPUT,1,-,-,-
+top_cdc_fifo_integrated,Top_Level,pclk,INPUT,1,-,-,-
+top_cdc_fifo_integrated,Top_Level,presetn,INPUT,1,-,-,-
+top_cdc_fifo_integrated,Top_Level,pwrite,INPUT,1,-,-,-
+top_cdc_fifo_integrated,Top_Level,paddr,INPUT,32,[31:0],-,-
+top_cdc_fifo_integrated,Top_Level,pwdata,INPUT,32,[31:0],-,-
+top_cdc_fifo_integrated,Top_Level,pready,OUTPUT,1,-,-,-
+top_cdc_fifo_integrated,Top_Level,pslverr,OUTPUT,1,-,-,-
+top_cdc_fifo_integrated,Top_Level,cmd_reg_sync,OUTPUT,8,[7:0],port definition,---------------- APB / register ...
+top_cdc_fifo_integrated,Top_Level,len_reg_sync,OUTPUT,8,[7:0],port definition,---------------- APB / register ...
+top_cdc_fifo_integrated,Top_Level,dummy_reg_sync,OUTPUT,5,[4:0],-,-
+top_cdc_fifo_integrated,Top_Level,addr_reg_sync,OUTPUT,24,[23:0],-,-
+top_cdc_fifo_integrated,Top_Level,start_toggle,OUTPUT,1,-,-,-
+top_cdc_fifo_integrated,Top_Level,start_out,OUTPUT,1,-,-,-
+top_cdc_fifo_integrated,Top_Level,busy_reg,OUTPUT,1,-,-,-
+top_cdc_fifo_integrated,Top_Level,read_output,OUTPUT,8,[7:0],-,-
+top_cdc_fifo_integrated,Top_Level,rx_read_data,OUTPUT,8,[7:0],port definition,---------------- TX path (unchan...
+top_cdc_fifo_integrated,Top_Level,qspi_busy_status,OUTPUT,1,-,-,-
+top_cdc_fifo_integrated,Top_Level,qspi_done_status,OUTPUT,1,-,-,-

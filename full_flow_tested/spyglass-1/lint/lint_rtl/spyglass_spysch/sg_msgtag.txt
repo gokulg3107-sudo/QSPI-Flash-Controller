@@ -1,0 +1,59 @@
+3 "W415a" 3
+"SG_MULTILINE_PROPERTY"
+1
+"SG_MULTILINE_MSGTAG"
+["1@@80","1@@89"]
+"SPG_MSGTAG_HIERARCHY"
+":top_cdc_fifo_integrated:slave@apb_slave"
+-1 "DetectTopDesignUnits" 2
+"RULEGROUP"
+["Design Read"]
+"BUILTIN"
+"1"
+-1 "ElabSummary" 2
+"RULEGROUP"
+["Design Read"]
+"BUILTIN"
+"1"
+-1 "RegInputOutput-ML" 3
+"TEMPLATE"
+["lint/lint_rtl"]
+"RULE_ORDER"
+[63]
+"RULEGROUP"
+["morelint"]
+-1 "ReportPortInfo-ML" 3
+"TEMPLATE"
+["lint/lint_rtl"]
+"RULE_ORDER"
+[42]
+"RULEGROUP"
+["morelint"]
+-1 "STARC05-2.5.1.2" 3
+"TEMPLATE"
+["lint/lint_rtl"]
+"RULE_ORDER"
+[84]
+"RULEGROUP"
+["starc2005/s05_Construct/s05_Construct1","starc2005/RTL_Description_Technique_05"]
+-1 "UndrivenInTerm-ML" 3
+"TEMPLATE"
+["lint/lint_rtl"]
+"RULE_ORDER"
+[71]
+"RULEGROUP"
+["morelint/HangingNet-ML/Undriven-ML"]
+-1 "W240" 3
+"TEMPLATE"
+["lint/lint_rtl"]
+"RULE_ORDER"
+[53]
+"RULEGROUP"
+["lint/Lint_Elab_Rules","lint/Usage"]
+-1 "W415a" 3
+"TEMPLATE"
+["lint/lint_rtl"]
+"RULE_ORDER"
+[91]
+"RULEGROUP"
+["lint/MultipleDriver"]

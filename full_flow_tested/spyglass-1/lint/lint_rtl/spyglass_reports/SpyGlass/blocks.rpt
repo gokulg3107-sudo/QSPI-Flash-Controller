@@ -1,0 +1,10 @@
+apb_slave@@@@top_cdc_fifo_integrated.slave
+domain_crossing@@@@top_cdc_fifo_integrated.lo
+fifo_write_fsm@@@@top_cdc_fifo_integrated.tx_write_logic
+async_fifo@@@@top_cdc_fifo_integrated.tx_fifo_module
+fifo_read_fsm@@@@top_cdc_fifo_integrated.tx_read_logic
+qspi_flash_controller@@@@top_cdc_fifo_integrated.flash
+rx_fifo_write_logic@@@@top_cdc_fifo_integrated.rx_write_logic
+async_fifo@@@@top_cdc_fifo_integrated.rx_fifo_module
+qspi_status@@@@top_cdc_fifo_integrated.status
+rx_fifo_read_logic@@@@top_cdc_fifo_integrated.rx_read_logic

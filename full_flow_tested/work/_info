@@ -1,0 +1,305 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/fetools/work_area/frontend/b11_rtl/Gokul/Desktop/major_project/full_flow_tested
+vapb_slave
+Z1 !s110 1787124484
+!i10b 1
+!s100 bUlHP6A0aN@M=e2H_=7n?1
+InUh7Hj_QlNJdi8R9lBV>E1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1787124452
+8apb_slave.v
+Fapb_slave.v
+L0 3
+Z3 OE;L;10.6c;65
+r1
+!s85 0
+31
+Z4 !s108 1787124484.000000
+!s107 command_code.h|top_cdc_fifo_integrated.v|tb_full_flow_v2.v|rx_fifo_write_logic.v|rx_fifo_read_logic.v|qspi_status.v|qspi_flash_controller.v|MX25U6432FM2I02.v|fifo_write_fsm.v|fifo_read_fsm.v|domain_crossing.v|async_fifo.v|apb_slave.v|
+Z5 !s90 apb_slave.v|async_fifo.v|domain_crossing.v|fifo_read_fsm.v|fifo_write_fsm.v|MX25U6432FM2I02.v|qspi_flash_controller.v|qspi_status.v|rx_fifo_read_logic.v|rx_fifo_write_logic.v|tb_full_flow_v2.v|top_cdc_fifo_integrated.v|
+!i113 0
+Z6 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z7 tCvgOpt 0
+vasync_fifo
+R1
+!i10b 1
+!s100 _F]LaJ;S<<hQ^go<nZ6kj3
+I01nzTEKGeGW3H3nS3:Sbm3
+R2
+R0
+Z8 w1787124197
+Z9 8async_fifo.v
+Z10 Fasync_fifo.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+Z11 !s107 command_code.h|top_cdc_fifo_integrated.v|tb_full_flow_v2.v|rx_fifo_write_logic.v|rx_fifo_read_logic.v|qspi_status.v|qspi_flash_controller.v|MX25U6432FM2I02.v|fifo_write_fsm.v|fifo_read_fsm.v|domain_crossing.v|async_fifo.v|apb_slave.v|
+R5
+!i113 0
+R6
+R7
+vdomain_crossing
+R1
+!i10b 1
+!s100 V;0fMBJ>Q^;6ZIW4]o1E12
+I6YE_oB;2Ee1To>Q4OfN@A1
+R2
+R0
+R8
+8domain_crossing.v
+Fdomain_crossing.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R11
+R5
+!i113 0
+R6
+R7
+vfifo_read_fsm
+R1
+!i10b 1
+!s100 D^KlW9EbKIg;CZ;z7VNo^0
+I>[78DoDkT:QR`0^<5zgdT1
+R2
+R0
+R8
+8fifo_read_fsm.v
+Ffifo_read_fsm.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+R11
+R5
+!i113 0
+R6
+R7
+vfifo_write_fsm
+R1
+!i10b 1
+!s100 fU=:RoZ08HdRHYgJ<g=RM0
+IFBe?9;L5lO8KX[P3P2IL12
+R2
+R0
+Z12 w1787124198
+8fifo_write_fsm.v
+Ffifo_write_fsm.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+R11
+R5
+!i113 0
+R6
+R7
+vMX25U6432FM2I02
+R1
+!i10b 1
+!s100 cUd`PSV83jE61YMb5XWZV3
+I@lj8go8M>RmOg3_0;MCGh0
+R2
+R0
+R8
+8MX25U6432FM2I02.v
+FMX25U6432FM2I02.v
+L0 113
+R3
+r1
+!s85 0
+31
+R4
+R11
+R5
+!i113 0
+R6
+R7
+n@m@x25@u6432@f@m2@i02
+vqspi_flash_controller
+R1
+!i10b 1
+!s100 Idz_VO<UzjiCmWM1D:gMF0
+InSdMSG:]>Xiof0@k0U[4>0
+R2
+R0
+R12
+8qspi_flash_controller.v
+Fqspi_flash_controller.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+R11
+R5
+!i113 0
+R6
+R7
+vqspi_status
+R1
+!i10b 1
+!s100 3LZ=LfInl`VPYMHikX5QO2
+IHNgB1bfmeGMCP]KAKYi6N2
+R2
+R0
+Z13 w1787124199
+8qspi_status.v
+Fqspi_status.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R11
+R5
+!i113 0
+R6
+R7
+vread_pointer_handler
+R1
+!i10b 1
+!s100 hlDTcbGKKRCf?b<h7]03^2
+I3BAHMkGXY?7nlOh4?f=DW0
+R2
+R0
+R8
+R9
+R10
+L0 24
+R3
+r1
+!s85 0
+31
+R4
+R11
+R5
+!i113 0
+R6
+R7
+vrx_fifo_read_logic
+R1
+!i10b 1
+!s100 AcH5mdc]1`4@=m4^85Ygn2
+IkbBOQ[7`eD:FOFDo:4jd73
+R2
+R0
+w1787124483
+8rx_fifo_read_logic.v
+Frx_fifo_read_logic.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+R11
+R5
+!i113 0
+R6
+R7
+vrx_fifo_write_logic
+R1
+!i10b 1
+!s100 nL<^GV[eh0lH9@7_;b=HF3
+Inh7@JkA>>FR?_CFLVbd5B1
+R2
+R0
+R13
+8rx_fifo_write_logic.v
+Frx_fifo_write_logic.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R11
+R5
+!i113 0
+R6
+R7
+vtb_top_cdc_fifo_integrated
+R1
+!i10b 1
+!s100 dWMYg6BRc8?Q9f8on@_JL2
+I8bTF?R3Mfc7eJnW3NFGGh2
+R2
+R0
+R13
+8tb_full_flow_v2.v
+Ftb_full_flow_v2.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+R11
+R5
+!i113 0
+R6
+R7
+vtop_cdc_fifo_integrated
+R1
+!i10b 1
+!s100 Jk@P4kAFK?TJ3>VXC4WHd0
+ID;OhgOcgW64?X8NC]<z0K0
+R2
+R0
+R13
+8top_cdc_fifo_integrated.v
+Ftop_cdc_fifo_integrated.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R11
+R5
+!i113 0
+R6
+R7
+vwrite_pointer_handler
+R1
+!i10b 1
+!s100 k?_gkQYWEOaPM6V6bRKY^3
+IVj6GczTj_HP352j>HCW[T1
+R2
+R0
+R8
+R9
+R10
+L0 75
+R3
+r1
+!s85 0
+31
+R4
+R11
+R5
+!i113 0
+R6
+R7

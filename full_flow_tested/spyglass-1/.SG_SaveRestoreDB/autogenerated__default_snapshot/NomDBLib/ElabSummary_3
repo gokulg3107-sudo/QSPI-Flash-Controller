@@ -1,0 +1,104 @@
+================================================================================
+Elaborated Name: 'apb_slave'
+    (RTL Design Unit name: 'apb_slave', apb_slave.v:2)
+     Parameters (Total: 3)
+         idle         = 0 (default: 2'b00)
+         setup        = 1 (default: 2'b01)
+         access_state = 2 (default: 2)
+     Instances (Total: 1): top_cdc_fifo_integrated.slave 
+
+================================================================================
+
+Elaborated Name: 'domain_crossing'
+    (RTL Design Unit name: 'domain_crossing', domain_crossing.v:1)
+     Parameters (Total: 3)
+         idle             = 0 (default: 2'd0)
+         latch_inputdata  = 1 (default: 2'd1)
+         send_acknowledge = 2 (default: 2'd2)
+     Instances (Total: 1): top_cdc_fifo_integrated.lo 
+
+================================================================================
+
+Elaborated Name: 'fifo_write_fsm'
+    (RTL Design Unit name: 'fifo_write_fsm', fifo_write_fsm.v:2)
+     Parameters (Total: 0)
+     Instances (Total: 1): top_cdc_fifo_integrated.tx_write_logic 
+
+================================================================================
+
+Elaborated Name: 'async_fifo'
+    (RTL Design Unit name: 'async_fifo', async_fifo.v:1)
+     Parameters (Total: 0)
+     Instances (Total: 2): top_cdc_fifo_integrated.rx_fifo_module, top_cdc_fifo_integrated.tx_fifo_module 
+
+================================================================================
+
+Elaborated Name: 'write_pointer_handler'
+    (RTL Design Unit name: 'write_pointer_handler', async_fifo.v:75)
+     Parameters (Total: 0)
+     Instances (Total: 2): top_cdc_fifo_integrated.rx_fifo_module.w1, top_cdc_fifo_integrated.tx_fifo_module.w1 
+
+================================================================================
+
+Elaborated Name: 'read_pointer_handler'
+    (RTL Design Unit name: 'read_pointer_handler', async_fifo.v:24)
+     Parameters (Total: 0)
+     Instances (Total: 2): top_cdc_fifo_integrated.rx_fifo_module.w2, top_cdc_fifo_integrated.tx_fifo_module.w2 
+
+================================================================================
+
+Elaborated Name: 'fifo_read_fsm'
+    (RTL Design Unit name: 'fifo_read_fsm', fifo_read_fsm.v:2)
+     Parameters (Total: 2)
+         idle      = 0 (default: 0)
+         data_read = 1 (default: 1)
+     Instances (Total: 1): top_cdc_fifo_integrated.tx_read_logic 
+
+================================================================================
+
+Elaborated Name: 'qspi_flash_controller'
+    (RTL Design Unit name: 'qspi_flash_controller', qspi_flash_controller.v:2)
+     Parameters (Total: 7)
+         idle         = 0 (default: 0)
+         read_command = 1 (default: 1)
+         read_addr    = 2 (default: 2)
+         read_dummy   = 3 (default: 3)
+         read_data    = 4 (default: 4)
+         write_data   = 5 (default: 5)
+         done         = 6 (default: 6)
+     Instances (Total: 1): top_cdc_fifo_integrated.flash 
+
+================================================================================
+
+Elaborated Name: 'rx_fifo_write_logic'
+    (RTL Design Unit name: 'rx_fifo_write_logic', rx_fifo_write_logic.v:1)
+     Parameters (Total: 2)
+         idle      = 0 (default: 0)
+         latchdata = 1 (default: 1)
+     Instances (Total: 1): top_cdc_fifo_integrated.rx_write_logic 
+
+================================================================================
+
+Elaborated Name: 'qspi_status'
+    (RTL Design Unit name: 'qspi_status', qspi_status.v:1)
+     Parameters (Total: 3)
+         idle           = 0 (default: 2'd0)
+         qspi_operation = 1 (default: 2'd1)
+         qspi_done      = 2 (default: 2'd2)
+     Instances (Total: 1): top_cdc_fifo_integrated.status 
+
+================================================================================
+
+Elaborated Name: 'rx_fifo_read_logic'
+    (RTL Design Unit name: 'rx_fifo_read_logic', rx_fifo_read_logic.v:2)
+     Parameters (Total: 2)
+         idle           = 0 (default: 0)
+         read_fifo_data = 1 (default: 1)
+     Instances (Total: 1): top_cdc_fifo_integrated.rx_read_logic 
+
+================================================================================
+
+Elaborated Name: 'top_cdc_fifo_integrated'
+    (RTL Design Unit name: 'top_cdc_fifo_integrated', top_cdc_fifo_integrated.v:1)
+     Parameters (Total: 0)
+================================================================================
